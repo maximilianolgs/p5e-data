@@ -3,27 +3,29 @@
     "1": {
       "amount": 1,
       "dice_max": 4,
-      "move": false
+      "move": false,
+      "times": "1d4"
     },
     "10": {
       "amount": 2,
       "dice_max": 4,
       "move": false,
-      "times": 2
+      "times": "1d4"
     },
     "17": {
       "amount": 2,
       "dice_max": 6,
       "move": false,
-      "times": 2
+      "times": "1d4"
     },
     "5": {
       "amount": 1,
       "dice_max": 6,
-      "move": false
+      "move": false,
+      "times": "1d4"
     }
   },
-  "Description": "Make a ranged attack on a creature, rolling on a hit. You attack with a barrage of ranged strikes equal to the number shown. Each projectile deals normal damage.",
+  "Description": "Make a ranged attack on a creature, rolling 1d4 on a hit. You attack with a barrage of ranged strikes equal to the number shown. Each projectile deals normal damage.",
   "Duration": "Instantaneous",
   "Move Power": [
     "STR",
