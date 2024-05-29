@@ -1,3 +1,4 @@
 [submodule "p5e-data-conversion"]
 	path = p5e-data-conversion
-	url = https://github.com/Jerakin/p5e-data-conversion
+	url = https://github.com/maximilianolgs/p5e-data-conversion
+	branch = master
