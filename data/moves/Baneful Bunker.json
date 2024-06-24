@@ -4,6 +4,5 @@
   "Move Time": "1 reaction",
   "PP": 3,
   "Range": "Self",
-  "Type": "Poison",
-  "atk": true
+  "Type": "Poison"
 }

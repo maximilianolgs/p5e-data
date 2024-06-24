@@ -31,6 +31,5 @@
   "PP": 3,
   "Range": "Self",
   "Scaling": "Higher Levels: The dice roll for healing changes to 3d10 at level 5, 7d6 at level 10, and 8d8 at level 17.",
-  "Type": "Fairy",
-  "atk": false
+  "Type": "Fairy"
 }

@@ -25,7 +25,7 @@
       "move": false
     }
   },
-  "Description": "You attempt to throw a creature into the ground with tremendous force. Make a melee attack roll. On a hit, deal an amount of fighting damage equal to + the user's level. Seismic Toss results in a critical hit on 19s and 20s.",
+  "Description": "You attempt to throw a creature into the ground with tremendous force. Make a melee attack roll. On a hit, deal an amount of fighting damage equal to the corresponding damage dice + the user's level. Seismic Toss results in a critical hit on 19s and 20s.",
   "Duration": "Instantaneous",
   "Move Power": [
     "STR"

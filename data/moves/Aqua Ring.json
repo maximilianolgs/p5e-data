@@ -4,6 +4,5 @@
   "Move Time": "1 bonus action",
   "PP": 5,
   "Range": "Self",
-  "Type": "Water",
-  "atk": false
+  "Type": "Water"
 }

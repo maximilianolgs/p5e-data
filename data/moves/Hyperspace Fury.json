@@ -1,5 +1,5 @@
 {
-  "Description": "Using your many arms, you send a barrage of three balls of furious energy at any creature(s) in range. Each ball automatically deals 1d6 dark damage to any creature(s) you choose. Reactions that negate damage such as Protect or Detect cannot be used. After activating this move, any attacks against you, until the beginning of your next turn, are rolled at advantage.",
+  "Description": "Using your many arms, you send a barrage of balls of furious energy at any creature(s) in range. Each ball automatically deals 1d6 dark damage to any creature(s) you choose. Reactions that negate damage such as Protect or Detect cannot be used. After activating this move, any attacks against you, until the beginning of your next turn, are rolled at advantage.\n\nBalls per level:\nFrom level 1 to 4: 3 balls\nFrom level 5 to 9: 4 balls\nFrom level 10 to 16: 5 balls\nFrom level 17 to 20: 6 balls",
   "Duration": "Instantaneous",
   "Move Time": "1 action",
   "PP": 3,

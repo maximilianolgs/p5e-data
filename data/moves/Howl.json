@@ -4,6 +4,5 @@
   "Move Time": "1 action",
   "PP": 10,
   "Range": "Self",
-  "Type": "Normal",
-  "atk": true
+  "Type": "Normal"
 }

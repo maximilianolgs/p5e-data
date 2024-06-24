@@ -1,0 +1,722 @@
+{
+  "Adaptability": {
+    "Description": "Cuando este Pokémon usa un movimiento de su mismo tipo, puede tirar el daño dos veces y elegir cualquiera de los totales."
+  },
+  "Aftermath": {
+    "Description": "Este Pokémon inflige daño a un atacante igual a la mitad del daño recibido cuando es noqueado por un movimiento cuerpo a cuerpo."
+  },
+  "Air Lock": {
+    "Description": "Mientras este Pokémon esté en batalla, las habilidades relacionadas con el clima no tienen efecto sobre los Pokémon que las poseen."
+  },
+  "Air Slash": {
+    "Description": "Este Pokémon conoce Tajo Aéreo como un quinto movimiento. El movimiento se olvida si toma cualquier otra forma."
+  },
+  "Analytic": {
+    "Description": "Después de que este Pokémon falle un ataque, su próximo ataque se realiza con ventaja."
+  },
+  "Anger Point": {
+    "Description": "Después de sufrir un golpe crítico, este Pokémon duplica los dados de daño para un solo movimiento que active en el siguiente turno."
+  },
+  "Anticipation": {
+    "Description": "Cuando este Pokémon entra en batalla, un oponente debe revelar si tiene un movimiento al que el Pokémon es vulnerable. No es necesario revelar el movimiento, solo que existe tal movimiento."
+  },
+  "Aqua Camoflauge": {
+    "Description": "Una vez por descanso corto, este Pokémon gana puntos de golpe temporales iguales a su nivel cuando lucha en áreas costeras y pantanosas, o en condiciones de lluvia."
+  },
+  "Arena Trap": {
+    "Description": "Las criaturas en tierra dentro de 50 pies de este Pokémon no pueden huir o cambiar, excepto por objeto, movimiento o habilidad."
+  },
+  "Aroma Veil": {
+    "Description": "Cualquier aliado dentro de 15 pies de este Pokémon pasa automáticamente cualquier salvación de SAB que se le requiera hacer."
+  },
+  "Aura Break": {
+    "Description": "Cuando este Pokémon está en batalla, el impulso de las habilidades Aura Feérica y Aura Oscura se invierte, cualquier tipo de movimiento aplicable activado dentro de 100 pies inflige la mitad de daño en lugar del doble."
+  },
+  "Bad Dreams": {
+    "Description": "Si un oponente en batalla con este Pokémon se duerme, recibe una cantidad de daño igual a la Bonificación de Proficiencia de este Pokémon al final de cada uno de sus turnos."
+  },
+  "Battery": {
+    "Description": "Los aliados que activen movimientos de tipo eléctrico dentro de 20 pies de este Pokémon duplican sus dados de daño."
+  },
+  "Battle Armor": {
+    "Description": "Este Pokémon es inmune al daño extra infligido por un Golpe Crítico."
+  },
+  "Beast Boost": {
+    "Description": "Al causar que un oponente se desmaye, este Pokémon aumenta las puntuaciones de habilidad de sus competencias de salvación en 2 hasta el final del combate. Esto se puede acumular hasta un máximo de +10 en cualquier puntuación de habilidad."
+  },
+  "Berserk": {
+    "Description": "Cuando este Pokémon cae por debajo del 25% de su salud máxima, todos sus ataques se tiran con desventaja, pero infligen el doble de su daño. Si un movimiento activado requiere una tirada de salvación, el(los) objetivo(s) tienen ventaja en la tirada."
+  },
+  "Big Pecks": {
+    "Description": "La CA de este Pokémon no puede ser reducida por los movimientos de un oponente."
+  },
+  "Blaze": {
+    "Description": "Este Pokémon duplica su BAMT cuando tiene el 25% o menos de su salud máxima."
+  },
+  "Blizzard": {
+    "Description": "Este Pokémon conoce Ventisca como un quinto movimiento. El movimiento se olvida si toma cualquier otra forma."
+  },
+  "Bulletproof": {
+    "Description": "Este Pokémon es inmune al daño de movimientos con Bala, Bola o Bomba en su nombre."
+  },
+  "Burrower": {
+    "Description": "Este Pokémon puede excavar bajo tierra viajando una distancia igual a su velocidad de caminar antes de emerger nuevamente."
+  },
+  "Cacophony": {
+    "Description": "Este Pokémon es inmune a movimientos basados en sonido."
+  },
+  "Cheek Pouch": {
+    "Description": "Cuando este Pokémon come cualquier tipo de baya, se cura un 10% adicional de su salud máxima (redondeado al número entero más cercano)."
+  },
+  "Chlorophyll": {
+    "Description": "La velocidad de este Pokémon se duplica bajo la luz solar intensa."
+  },
+  "Clear Body": {
+    "Description": "Los movimientos o habilidades de otros Pokémon no pueden reducir las estadísticas de este Pokémon."
+  },
+  "Cloud Nine": {
+    "Description": "Mientras este Pokémon esté en batalla, las habilidades relacionadas con el clima no tienen efecto sobre los Pokémon que las poseen."
+  },
+  "Color Change": {
+    "Description": "Cuando es golpeado por un ataque dañino, el tipo de este Pokémon cambia al tipo que lo golpeó. Adopta las resistencias, vulnerabilidades e inmunidades del nuevo tipo."
+  },
+  "Comatose": {
+    "Description": "Este Pokémon está en un estado continuo de somnolencia. Es inmune a la condición de sueño, pero se considera afectado por el sueño para todos los movimientos que requieren que un Pokémon esté dormido para usar o activar efectos adicionales (Ronquido, Sonámbulo, Espabila, Comilona, etc.)"
+  },
+  "Competitive": {
+    "Description": "Este Pokémon añade su Bonificación de Proficiencia a las tiradas de daño mientras está envenenado, quemado, confundido o paralizado."
+  },
+  "Compound Eyes": {
+    "Description": "Este Pokémon obtiene un +1 adicional a las tiradas de ataque."
+  },
+  "Contrary": {
+    "Description": "Los movimientos que aumentan o disminuyen directamente las estadísticas de este Pokémon tienen el efecto contrario. Esta habilidad no tiene efecto en movimientos que \"intercambiarían\" o \"promediarían\" estadísticas con un objetivo como Intercambio, División de Guardia, etc."
+  },
+  "Corrosion": {
+    "Description": "Los movimientos de este Pokémon ignoran la inmunidad al veneno de las criaturas otorgada por su tipo de Pokémon, y pueden infligir el estado envenenado a criaturas de tipo veneno y acero. Si el tipo secundario del objetivo le da vulnerabilidad o resistencia al daño, sigue el tipo secundario para ese efecto."
+  },
+  "Cursed Body": {
+    "Description": "Cuando es golpeado por un ataque cuerpo a cuerpo, este Pokémon puede tirar 1d4. Con un resultado de 4, el oponente que realizó el ataque no puede usar el mismo movimiento en su próximo turno."
+  },
+  "Cute Charm": {
+    "Description": "Una vez por descanso corto, puedes imponer desventaja en una tirada de ataque enemiga de tu elección."
+  },
+  "Damp": {
+    "Description": "Este Pokémon no se ve afectado por los movimientos Autodestrucción y Explosión."
+  },
+  "Dancer": {
+    "Description": "Si cualquier criatura a la vista de este Pokémon activa un movimiento con \"Baile\" en su nombre, este Pokémon puede usar inmediatamente uno de sus movimientos como reacción."
+  },
+  "Dark Aura": {
+    "Description": "Cuando este Pokémon está en batalla, todos los movimientos de tipo oscuro de aliados u oponentes dentro de 100 pies infligen el doble de su daño."
+  },
+  "Dazzling": {
+    "Description": "Las criaturas en la línea de visión de este Pokémon no pueden usar acciones de bonificación para activar Movimientos. Los movimientos que normalmente tendrían un Tiempo de Movimiento de \"1 acción de bonificación\" en su lugar tienen un Tiempo de Movimiento de \"1 acción\"."
+  },
+  "Defeatist": {
+    "Description": "Cuando este Pokémon cae por debajo del 25% de su salud máxima, todos sus ataques se tiran con desventaja."
+  },
+  "Defiant": {
+    "Description": "Mientras este Pokémon sufre de un efecto de estado negativo o cambio de estadística impuesto por un oponente, gana +2 en todas las tiradas de ataque."
+  },
+  "Disguise": {
+    "Description": "Este Pokémon tiene un disfraz que le otorga un aumento temporal de puntos de golpe igual al doble de su nivel. Cuando los puntos de golpe temporales caen a cero, el disfraz se rompe y requiere un descanso corto para repararse."
+  },
+  "Download": {
+    "Description": "Una vez por descanso corto, este Pokémon puede elegir un tipo de daño diferente para uno de sus ataques normales."
+  },
+  "Drizzle": {
+    "Description": "Cuando este Pokémon entra en una batalla exterior, el clima cambia inmediatamente a lluvia ligera durante 5 rondas. En caso de otro Pokémon con una habilidad climática similar, la prioridad la tiene el Pokémon con el puntaje de DES más alto."
+  },
+  "Drought": {
+    "Description": "Cuando este Pokémon entra en una batalla exterior, el clima cambia inmediatamente a luz solar intensa durante 5 rondas. En caso de otro Pokémon con una habilidad climática similar, la prioridad la tiene el Pokémon con el puntaje de DES más alto."
+  },
+  "Dry Skin": {
+    "Description": "Al final de cada turno de este Pokémon, recibe una cantidad de daño igual a su bonificación de proficiencia bajo luz solar intensa, o se cura por la misma cantidad durante la lluvia."
+  },
+  "Early Bird": {
+    "Description": "Este Pokémon tiene ventaja en las tiradas para despertarse del sueño."
+  },
+  "Effect Spore": {
+    "Description": "Cuando es golpeado por un ataque cuerpo a cuerpo, tira un d4. Con un 4, inflige una cantidad de daño de tipo planta igual a su bonificación de proficiencia a su atacante."
+  },
+  "Electric Surge": {
+    "Description": "Si conoce el movimiento, este Pokémon puede usar el movimiento Campo Eléctrico como una acción de bonificación."
+  },
+  "Emergency Exit": {
+    "Description": "En cualquier momento en que este Pokémon reciba daño cuando está en o por debajo del 50% de sus PG máximos, su entrenador puede cambiarlo como una acción libre."
+  },
+  "Fairy Aura": {
+    "Description": "Cuando este Pokémon está en batalla, todos los movimientos de tipo hada dentro de 100 pies de ti infligen el doble de su daño."
+  },
+  "Filter": {
+    "Description": "Cuando es golpeado por un tipo de movimiento al que este Pokémon es vulnerable, puede tirar un d4. Con un resultado de 4, no recibe el daño adicional."
+  },
+  "Flame Body": {
+    "Description": "Las llamas del cuerpo de este Pokémon emiten luz tenue en un radio de 15 pies. Además, cuando es golpeado por un ataque cuerpo a cuerpo, tira un d10. Con un 10, el atacante queda quemado."
+  },
+  "Flare Boost": {
+    "Description": "Este Pokémon añade su competencia a sus tiradas de daño mientras está quemado."
+  },
+  "Flash Fire": {
+    "Description": "Este Pokémon no recibe daño de fuego o ataques de tipo fuego. En su lugar, inmediatamente después de recibir un golpe de un movimiento de tipo fuego, o en llamas abiertas, duplica el BAMT en el próximo movimiento de tipo fuego."
+  },
+  "Flower Gift": {
+    "Description": "Durante luz solar intensa, los Pokémon aliados dentro de 30 pies de este Pokémon añaden su Bonificación de Proficiencia a las tiradas de daño."
+  },
+  "Flower Veil": {
+    "Description": "Cualquier aliado de tipo planta dentro de 15 pies de este Pokémon es inmune a nuevos efectos de estado."
+  },
+  "Fluffy": {
+    "Description": "Este Pokémon es vulnerable a movimientos de tipo fuego, pero recibe la mitad de daño de cualquier ataque cuerpo a cuerpo (que no sea de tipo fuego)."
+  },
+  "Forecast": {
+    "Description": "Este Pokémon cambia de forma con el clima. En la lluvia se convierte en tipo agua, bajo luz solar intensa se convierte en tipo fuego, en condiciones frías y nevadas se convierte en tipo hielo. En todas las demás condiciones es de tipo normal. Su BAMT, resistencias, inmunidades y vulnerabilidades cambian para coincidir con la forma que toma."
+  },
+  "Forewarn": {
+    "Description": "Cuando este Pokémon entra en batalla, selecciona un objetivo para revelar el movimiento que conoce con el mayor daño. En caso de empate, el objetivo puede elegir qué movimiento revela."
+  },
+  "Friend Guard": {
+    "Description": "Una vez por descanso largo, cuando un aliado dentro de 15 pies de este Pokémon es golpeado por un ataque, puede elegir reducir a la mitad el daño infligido."
+  },
+  "Frisk": {
+    "Description": "Al entrar en batalla, se revela el objeto que lleva un solo oponente, si tiene uno."
+  },
+  "Full Metal Body": {
+    "Description": "Los movimientos o habilidades de otros Pokémon no pueden reducir las estadísticas de este Pokémon."
+  },
+  "Fur Coat": {
+    "Description": "Una vez por descanso largo, este Pokémon puede reducir a la mitad el daño recibido de cualquier ataque."
+  },
+  "Gale Wings": {
+    "Description": "Este Pokémon añade un +1 adicional al acierto cuando usa ataques de tipo volador."
+  },
+  "Galvanize": {
+    "Description": "Todos los movimientos de tipo normal de este Pokémon son de tipo eléctrico."
+  },
+  "Gluttony": {
+    "Description": "Este Pokémon debe comer su baya equipada cuando cae por debajo de la mitad de sus PG máximos."
+  },
+  "Gooey": {
+    "Description": "Cuando este Pokémon es golpeado con un ataque cuerpo a cuerpo, tira 1d4. Con un resultado de 3 o 4, la velocidad del atacante se reduce a 0 hasta el final de su próximo turno."
+  },
+  "Grass Pelt": {
+    "Description": "Este Pokémon gana +1 a la CA mientras está en terreno herboso."
+  },
+  "Grassy Surge": {
+    "Description": "Si conoce el movimiento, este Pokémon puede usar el movimiento Campo de Hierba como una acción de bonificación."
+  },
+  "Guts": {
+    "Description": "Cuando este Pokémon está quemado o envenenado, no se ve afectado por los efectos de desventaja o reducción de daño. Aún así recibe daño al final de cada uno de sus turnos."
+  },
+  "Harvest": {
+    "Description": "Al final del turno de este Pokémon, si usó una baya, tira 1d4. Con un resultado de 3 o 4, recupera esa baya como objeto equipado."
+  },
+  "Healer": {
+    "Description": "Como acción, este Pokémon puede tocar a una criatura para curar veneno, quemaduras o parálisis. Cuando usa esta habilidad, tira un d4. Con un resultado de 1 o 2, el efecto de estado se transfiere a sí mismo."
+  },
+  "Healing Rain": {
+    "Description": "Este Pokémon puede usar su acción para curar puntos de golpe iguales a su nivel, en condiciones de lluvia."
+  },
+  "Heatproof": {
+    "Description": "Este Pokémon recibe la mitad del daño que de otro modo recibiría de daño de fuego y es inmune a la condición de quemadura."
+  },
+  "Heavy Metal": {
+    "Description": "Este Pokémon es especialmente pesado. Una vez por descanso largo, después de ser objetivo de un ataque, puede aumentar su CA en 2 si eso causaría que un ataque falle."
+  },
+  "Honey Gather": {
+    "Description": "Al final de cada batalla, este Pokémon puede tirar un d20 + su Bonificación de Proficiencia. Con un resultado de 20 o más, su entrenador añade una Miel a su inventario."
+  },
+  "Huge Power": {
+    "Description": "Una vez por descanso corto, este Pokémon puede duplicar los dados de daño para una sola tirada de daño. El jugador debe anunciar que está usando esta habilidad antes de la tirada de ataque."
+  },
+  "Hustle": {
+    "Description": "Cuando obtienes un golpe crítico, puedes ganar inmediatamente una acción adicional en tu turno. Si esta acción se usa para hacer un ataque, tienes desventaja en la tirada. Solo puedes tener una acción adicional por ronda."
+  },
+  "Hydration": {
+    "Description": "Este Pokémon no se ve afectado por efectos de estado negativos en el agua o durante condiciones de lluvia."
+  },
+  "Hydro Pump": {
+    "Description": "Este Pokémon conoce Hidrobomba como un quinto movimiento. El movimiento se olvida si toma cualquier otra forma."
+  },
+  "Hyper Cutter": {
+    "Description": "Los bonos de ataque o daño de este Pokémon no pueden ser disminuidos por los movimientos de un oponente."
+  },
+  "Ice Body": {
+    "Description": "Mientras está nevando o hay granizo, este Pokémon se cura por una cantidad de PG igual a su bonificación de proficiencia al final de cada uno de sus turnos."
+  },
+  "Illuminate": {
+    "Description": "Este Pokémon conoce el cantrip \"Luz\" y puede lanzarlo a voluntad."
+  },
+  "Illusion": {
+    "Description": "Este Pokémon puede tomar la forma visual de cualquier Pokémon que pueda ver. Puede hacer esto un número de veces por descanso largo igual a su nivel. Esta ilusión dura una hora o hasta que el Pokémon es golpeado por un movimiento dañino."
+  },
+  "Immunity": {
+    "Description": "Este Pokémon es inmune a volverse envenenado."
+  },
+  "Imposter": {
+    "Description": "Este Pokémon puede usar Transformación como una acción de bonificación."
+  },
+  "Infiltrator": {
+    "Description": "Este Pokémon ignora Pantalla de Luz, Reflejo, Sustituto, Neblina, Velo Sagrado y Velo Aurora."
+  },
+  "Innards Out": {
+    "Description": "Cuando este Pokémon es noqueado por un movimiento dañino, cualquier criatura dentro de 5 pies de él recibe una cantidad de daño sin tipo igual a la cantidad de PG perdidos."
+  },
+  "Inner Focus": {
+    "Description": "Este Pokémon es inmune a Acobardarse."
+  },
+  "Insomnia": {
+    "Description": "Este Pokémon es inmune al sueño."
+  },
+  "Intimidate": {
+    "Description": "Una vez por descanso corto, puedes imponer desventaja en una tirada de ataque enemiga de tu elección."
+  },
+  "Iron Barbs": {
+    "Description": "Cuando este Pokémon es golpeado por un ataque cuerpo a cuerpo, puede tirar un d4. Con un 4, inflige una cantidad de daño de tipo acero igual a su bonificación de proficiencia a su atacante."
+  },
+  "Iron Fist": {
+    "Description": "Cuando ataca con un movimiento basado en puñetazos (Mega Puño, Puño Dinámico, Puño Hielo/Fuego/Trueno, etc.), este Pokémon puede tirar el daño dos veces y elegir cualquiera de los totales."
+  },
+  "Justified": {
+    "Description": "Cuando este Pokémon es golpeado por un movimiento de tipo oscuro, obtiene ventaja en su próximo ataque."
+  },
+  "Keen Eye": {
+    "Description": "Este Pokémon ignora la desventaja cuando se relaciona con la vista."
+  },
+  "Klutz": {
+    "Description": "Este Pokémon no puede sostener un objeto."
+  },
+  "Leaf Guard": {
+    "Description": "Este Pokémon no sufre de ningún efecto de estado negativo bajo luz solar intensa."
+  },
+  "Leaf Storm": {
+    "Description": "Este Pokémon conoce Tormenta Floral como un quinto movimiento. El movimiento se olvida si toma cualquier otra forma."
+  },
+  "Levitate": {
+    "Description": "Este Pokémon es inmune a movimientos de tipo tierra."
+  },
+  "Light Metal": {
+    "Description": "Este Pokémon es especialmente ligero para su especie. Una vez por descanso largo, puede imponer desventaja en una tirada de ataque contra él."
+  },
+  "Lightning Rod": {
+    "Description": "Si este Pokémon o un aliado dentro de 30 pies es objetivo de un movimiento de tipo eléctrico directo que inflige daño, el Pokémon puede usar una reacción para redirigir el objetivo hacia sí mismo y recibir la mitad del daño si le acierta."
+  },
+  "Limber": {
+    "Description": "Este Pokémon es inmune a quedar paralizado."
+  },
+  "Liquid Ooze": {
+    "Description": "Si un enemigo usa un movimiento de absorción o sanguijuela contra este Pokémon, el Pokémon debe hacer una salvación de CON DC 12 o quedar envenenado."
+  },
+  "Liquid Voice": {
+    "Description": "Cualquier movimiento basado en sonido activado por este Pokémon es de tipo agua."
+  },
+  "Long Reach": {
+    "Description": "Este Pokémon tiene 5 pies adicionales de alcance con todos los ataques cuerpo a cuerpo y Ataques de Oportunidad."
+  },
+  "Magic Bounce": {
+    "Description": "Una vez por descanso largo, al sucumbir a un efecto de estado negativo, este Pokémon puede en cambio reflejar el efecto de vuelta al atacante."
+  },
+  "Magic Guard": {
+    "Description": "Si este Pokémon es sometido a un movimiento que lo obliga a hacer una salvación para recibir solo la mitad del daño, en lugar de eso no recibe daño si tiene éxito."
+  },
+  "Magician": {
+    "Description": "Si no está sosteniendo ya un objeto, este Pokémon roba el objeto equipado de cualquier Pokémon que golpee con un ataque cuerpo a cuerpo."
+  },
+  "Magma Armor": {
+    "Description": "Este Pokémon es inmune a congelarse."
+  },
+  "Magnet Pull": {
+    "Description": "Los oponentes de tipo acero en batalla con este Pokémon no pueden cambiar ni huir."
+  },
+  "Marvel Scale": {
+    "Description": "La CA de este Pokémon aumenta en 2 cuando sufre de una condición de estado negativa."
+  },
+  "Mega Launcher": {
+    "Description": "Los movimientos de Aura y Pulso realizados por este Pokémon infligen daño/curación adicional igual a la Bonificación de Proficiencia de este Pokémon."
+  },
+  "Merciless": {
+    "Description": "Cuando este Pokémon realiza una tirada de ataque exitosa contra un Pokémon envenenado, trata ese ataque como un golpe crítico."
+  },
+  "Minus": {
+    "Description": "Este Pokémon aumenta sus tiradas de ataque y daño en 2 si un aliado también tiene una habilidad Plus o Minus."
+  },
+  "Misty Surge": {
+    "Description": "Si conoce el movimiento, este Pokémon puede usar el movimiento Campo de Niebla como una acción de bonificación."
+  },
+  "Mold Breaker": {
+    "Description": "Los movimientos de este Pokémon ignoran cualquier habilidad que disminuiría su efecto o capacidad para golpear a un oponente (Debido a cosas como Absorbe Agua, Capa de Nieve, Sebo, Robustez, etc.)"
+  },
+  "Moody": {
+    "Description": "Al final de cada descanso largo, este Pokémon vuelve a tirar en la tabla de naturaleza, reemplazando su naturaleza con el resultado hasta el próximo descanso largo."
+  },
+  "Motor Drive": {
+    "Description": "Cuando es golpeado por un movimiento de tipo eléctrico, si no es inmune, la velocidad de este Pokémon aumenta en 10 pies hasta el final del combate (hasta un máximo de 50 pies adicionales)."
+  },
+  "Moxie": {
+    "Description": "Al causar que un oponente se desmaye, este Pokémon puede tomar inmediatamente otra acción."
+  },
+  "Multiscale": {
+    "Description": "Si este Pokémon está a plena salud, el primer daño que recibe se reduce a la mitad."
+  },
+  "Multitype": {
+    "Description": "El tipo y la forma de este Pokémon cambian para coincidir con el tipo de Placa Elemental que este Pokémon sostiene. La Placa no puede ser afectada por ninguna habilidad o movimiento que quite objetos."
+  },
+  "Mummy": {
+    "Description": "Cuando este Pokémon es golpeado por un ataque cuerpo a cuerpo, una habilidad aleatoria de su atacante cambia a Momia por el resto del encuentro."
+  },
+  "Natural Cure": {
+    "Description": "Este Pokémon se cura de efectos de estado negativos al regresar a su Pokébola."
+  },
+  "Neuroforce": {
+    "Description": "Cuando este Pokémon daña a una criatura con un movimiento súper efectivo, puede tirar los dados de daño dos veces y usar el resultado más alto."
+  },
+  "No Guard": {
+    "Description": "Cualquier ataque realizado por o contra este Pokémon tiene ventaja."
+  },
+  "Normalize": {
+    "Description": "Cada movimiento que este Pokémon activa es de tipo Normal."
+  },
+  "Oblivious": {
+    "Description": "Este Pokémon es inmune a movimientos que intentan encantar o burlarse de él."
+  },
+  "Overcoat": {
+    "Description": "Este Pokémon no recibe daño de movimientos y fenómenos relacionados con el clima como Granizo, Bola Clima, etc."
+  },
+  "Overgrow": {
+    "Description": "Este Pokémon duplica su BAMT cuando tiene el 25% o menos de su salud máxima."
+  },
+  "Overheat": {
+    "Description": "Este Pokémon conoce Sobrecalentamiento como un quinto movimiento. El movimiento se olvida si toma cualquier otra forma."
+  },
+  "Own Tempo": {
+    "Description": "Este Pokémon es inmune a quedar confundido."
+  },
+  "Paper Thin": {
+    "Description": "Este Pokémon siempre tiene un máximo de PG de 1. (Solo Shedinja. No se puede pasar ni intercambiar)"
+  },
+  "Pickpocket": {
+    "Description": "Cuando es golpeado por un ataque cuerpo a cuerpo, este Pokémon puede usar una reacción para intentar robar el objeto equipado de la criatura con una comprobación de Destreza de Manos contra la Percepción Pasiva del objetivo. Después del primer intento, todos los demás intentos contra el mismo oponente se tiran con desventaja."
+  },
+  "Pickup": {
+    "Description": "Si un oponente usa un objeto consumible equipado en batalla, este Pokémon obtiene una copia de él si actualmente no está sosteniendo un objeto."
+  },
+  "Pixilate": {
+    "Description": "Todos los movimientos de tipo normal de este Pokémon se convierten en tipo hada."
+  },
+  "Plus": {
+    "Description": "Este Pokémon aumenta sus tiradas de ataque y daño en 2 si un aliado también tiene una habilidad Plus o Minus."
+  },
+  "Poison Heal": {
+    "Description": "Este Pokémon no sufre los efectos de desventaja del estado envenenado. Además, este Pokémon recupera la mitad de todo el daño por veneno que recibiría, incluyendo el daño al final de cada uno de sus turnos."
+  },
+  "Poison Point": {
+    "Description": "Cuando este Pokémon es golpeado con un ataque cuerpo a cuerpo, tira un d4. Con un resultado de 4, el atacante recibe una cantidad de daño por veneno igual al bonificación de proficiencia de este Pokémon."
+  },
+  "Poison Touch": {
+    "Description": "En ataques cuerpo a cuerpo realizados por este Pokémon, tira un d10 al acertar. Con un resultado de 10, el objetivo queda envenenado."
+  },
+  "Power Construct": {
+    "Description": "Cuando Zygarde al 10% se reduce a menos de la mitad de sus PG máximos, cambia a la Forma al 50% de Zygarde y recupera todos los puntos de golpe. Cuando Zygarde al 50% se reduce a menos de la mitad de sus PG máximos, cambia a la Forma Completa y recupera todos los puntos de golpe. Cuando Zygarde en Forma Completa se reduce a menos de la mitad de sus PG máximos, cambia a la Forma Completa y permanece en esa forma, independientemente de los cambios de PG."
+  },
+  "Power of Alchemy": {
+    "Description": "Cuando se cambia después de que un aliado se desmaya, este Pokémon copia la habilidad no oculta del aliado desmayado hasta que se cambia."
+  },
+  "Prankster": {
+    "Description": "Una vez por descanso corto, este Pokémon puede moverse al principio del orden de iniciativa en una sola ronda, pero debe usar un movimiento que afecte el estado en su turno."
+  },
+  "Pressure": {
+    "Description": "Cualquier movimiento que tenga como objetivo directo a este Pokémon (movimientos que no son de área de efecto) reduce su PP en dos cuando se activa."
+  },
+  "Prism Armor": {
+    "Description": "Cuando este Pokémon está sujeto a daño en su lista de vulnerabilidades, tira los dados de daño dos veces y usa el resultado más bajo para el cálculo del daño."
+  },
+  "Protean": {
+    "Description": "El tipo de este Pokémon cambia al tipo de movimiento que usa, justo antes de que se use el movimiento. Adopta las resistencias, vulnerabilidades e inmunidades del nuevo tipo."
+  },
+  "Psychic Surge": {
+    "Description": "Si conoce el movimiento, este Pokémon puede usar el movimiento Campo Psíquico como una acción de bonificación."
+  },
+  "Pure Power": {
+    "Description": "Una vez por descanso corto, este Pokémon puede duplicar los dados de daño para una sola tirada de daño. El jugador debe anunciar que está usando esta habilidad antes de la tirada de ataque."
+  },
+  "Queenly Majesty": {
+    "Description": "Las criaturas dentro del campo de visión de este Pokémon no pueden usar acciones de bonificación para activar Movimientos. Los movimientos que normalmente tendrían un Tiempo de Movimiento de \"1 acción de bonificación\" en su lugar tienen un Tiempo de Movimiento de \"1 acción\"."
+  },
+  "Quick Feet": {
+    "Description": "Cuando sufre de una condición de estado negativo, la velocidad de este Pokémon aumenta en 15 pies."
+  },
+  "RKS System": {
+    "Description": "El tipo de este Pokémon está determinado por el disco de memoria que sostiene. Si no sostiene un disco de memoria, el tipo de este Pokémon es normal."
+  },
+  "Rain Dish": {
+    "Description": "En condiciones de lluvia, este Pokémon se cura por una cantidad de PG igual a su Bonificación de Proficiencia al final de cada uno de sus turnos."
+  },
+  "Rattled": {
+    "Description": "Cuando este Pokémon es golpeado por un movimiento dañino de tipo Oscuro, Bicho o Fantasma, realiza su próximo ataque con ventaja."
+  },
+  "Receiver": {
+    "Description": "Cuando se cambia después de que un aliado se desmaya, este Pokémon copia la habilidad no oculta del aliado desmayado hasta que se cambia."
+  },
+  "Reckless": {
+    "Description": "Cuando ataca con movimientos con daño de retroceso, este Pokémon duplica su BAMT."
+  },
+  "Refrigerate": {
+    "Description": "Todos los movimientos de tipo normal de este Pokémon se convierten en tipo hielo."
+  },
+  "Regenerator": {
+    "Description": "Una vez por descanso largo, este Pokémon recupera puntos de golpe iguales a su nivel cuando regresa a su Pokébola."
+  },
+  "Rivalry": {
+    "Description": "Este Pokémon añade su Bonificación de Proficiencia al daño cuando ataca a un Pokémon del mismo tipo."
+  },
+  "Rock Head": {
+    "Description": "Este Pokémon no recibe daño de retroceso."
+  },
+  "Rough Skin": {
+    "Description": "Cuando este Pokémon es golpeado por un ataque cuerpo a cuerpo, puede tirar un d4. Con un 4, inflige una cantidad de daño sin tipo igual a su bonificación de proficiencia a su atacante."
+  },
+  "Run Away": {
+    "Description": "Este Pokémon no puede ser el objetivo de un ataque de oportunidad."
+  },
+  "Sand Force": {
+    "Description": "Durante una tormenta de arena, este Pokémon puede duplicar su BAMT cuando golpea a un oponente."
+  },
+  "Sand Rush": {
+    "Description": "Este Pokémon es inmune al daño de tormenta de arena, y su velocidad se duplica en terreno desértico o durante una tormenta de arena."
+  },
+  "Sand Stream": {
+    "Description": "Cuando este Pokémon entra en una batalla exterior, el clima cambia inmediatamente a una tormenta de arena durante 5 rondas. En caso de otro Pokémon con una habilidad climática similar, la prioridad la tiene el Pokémon con el puntaje de DES más alto."
+  },
+  "Sand Veil": {
+    "Description": "Este Pokémon es inmune al daño de tormenta de arena. Además, su CA aumenta en 2 en terreno desértico o durante una tormenta de arena."
+  },
+  "Sap Sipper": {
+    "Description": "Este Pokémon no recibe daño de ataques de tipo planta. Si es golpeado por un movimiento de tipo planta, no recibe daño y en su lugar absorbe la energía, otorgándole ventaja en su próximo ataque."
+  },
+  "Schooling": {
+    "Description": "A partir del nivel 5, este Pokémon puede cambiar a Forma de Banco como una acción libre cuando comienza su turno por encima del 25% de su salud máxima. En Forma de Banco, el Pokémon añade 5 a su CA y a las puntuaciones de habilidad de Fuerza, Destreza y Constitución (CON adicional no altera los PG de este Pokémon en esta forma). El Pokémon vuelve a la Forma Solitaria cuando cae por debajo del 25% de la salud máxima y debe completar un descanso corto antes de activar esta habilidad de nuevo."
+  },
+  "Scrappy": {
+    "Description": "Los movimientos de tipo Normal y Lucha de este Pokémon ignoran las inmunidades otorgadas por el tipo de un Pokémon. Si el tipo secundario del objetivo le da vulnerabilidad o resistencia al ataque, sigue el tipo secundario para ese efecto."
+  },
+  "Serene Grace": {
+    "Description": "La DC del Movimiento para pasar una salvación contra uno de los movimientos de este Pokémon se incrementa en 1."
+  },
+  "Shadow Shield": {
+    "Description": "Si este Pokémon está a plena salud, el primer daño que recibe se reduce a la mitad."
+  },
+  "Shadow Tag": {
+    "Description": "Las criaturas dentro de 50 pies de este Pokémon no pueden huir ni cambiar, excepto por objeto, Movimiento o habilidad."
+  },
+  "Shed Skin": {
+    "Description": "Si este Pokémon está afectado por un problema de estado negativo, puede tirar un d4 al final de cada uno de sus turnos. Con un resultado de 4, se cura."
+  },
+  "Sheer Force": {
+    "Description": "Este Pokémon no puede causar efectos adicionales de movimientos dañinos. En su lugar, en cualquier movimiento de este tipo, duplica el modificador del movimiento al calcular el daño."
+  },
+  "Shell Armor": {
+    "Description": "Este Pokémon es inmune al daño extra infligido por un Golpe Crítico."
+  },
+  "Shield Dust": {
+    "Description": "Una vez por descanso largo, este Pokémon puede ignorar una condición de estado negativo que resulte de un movimiento enemigo."
+  },
+  "Shields Down": {
+    "Description": "Este Pokémon es inmune a los efectos de estado No Volátiles mientras está en Forma de Meteorito. Cuando este Pokémon cae por debajo del 50% de sus PG máximos, su caparazón exterior se rompe y cambia a Forma Núcleo. En Forma Núcleo, añade 6 puntos a su DEX, pero reduce su CA en 4. El Pokémon debe completar un descanso corto para restaurarse a la Forma de Meteorito."
+  },
+  "Simple": {
+    "Description": "Una vez por descanso corto, puedes duplicar el modificador de Movimiento de este Pokémon para un solo ataque o tirada de daño."
+  },
+  "Skill Link": {
+    "Description": "Los movimientos combinados que tienen la capacidad de golpear más de una vez, después de la misma tirada de ataque, están garantizados para golpear al menos dos veces. (Golpes Furia, Doble Bofetada, Shuriken de Agua, etc.)"
+  },
+  "Slow Start": {
+    "Description": "La velocidad de este Pokémon se reduce a la mitad y sus ataques se realizan con desventaja durante las primeras dos rondas de cada combate."
+  },
+  "Slush Rush": {
+    "Description": "Este Pokémon es inmune al daño de Granizo, y su velocidad se duplica en condiciones árticas o durante una tormenta de granizo."
+  },
+  "Sniper": {
+    "Description": "En un golpe crítico realizado por este Pokémon, triplica el resultado de los dados en lugar de duplicarlo."
+  },
+  "Snow Cloak": {
+    "Description": "Este Pokémon es inmune al daño de Granizo. Su CA se incrementa en 2 en condiciones árticas, o cuando está nevando o hay granizo."
+  },
+  "Snow Warning": {
+    "Description": "Cuando este Pokémon entra en una batalla exterior, el clima cambia inmediatamente a granizo durante 5 rondas. En caso de otro Pokémon con una habilidad climática similar, la prioridad la tiene el Pokémon con el puntaje de DES más alto."
+  },
+  "Solar Power": {
+    "Description": "Las tiradas de daño de este Pokémon obtienen un adicional de +2 durante luz solar intensa."
+  },
+  "Solid Rock": {
+    "Description": "Este Pokémon no recibe ningún daño adicional de un golpe crítico."
+  },
+  "Soul-Heart": {
+    "Description": "Al ver a un aliado desmayarse, este Pokémon aumenta las puntuaciones de habilidad de sus competencias de salvación en 2 hasta el final del combate. Esto se puede acumular hasta un máximo de +10 en cualquier puntuación de habilidad."
+  },
+  "Soundproof": {
+    "Description": "Este Pokémon es inmune a los movimientos basados en sonido."
+  },
+  "Speed Boost": {
+    "Description": "La velocidad de este Pokémon se incrementa en 10 pies mientras está en un entorno relacionado con su tipo (a discreción del DM)."
+  },
+  "Stakeout": {
+    "Description": "Cuando un oponente es cambiado en batalla, este Pokémon duplica el daño infligido si apunta al reemplazo en el primer turno inmediatamente después del cambio."
+  },
+  "Stall": {
+    "Description": "Este Pokémon siempre es el último en el orden de iniciativa."
+  },
+  "Stamina": {
+    "Description": "Cuando este Pokémon es dañado por un movimiento, aumenta su CA en 2 hasta el inicio de su próximo turno. Esta habilidad no se acumula y permanecerá en efecto si el Pokémon es atacado con éxito varios turnos seguidos."
+  },
+  "Stance Change": {
+    "Description": "Aegislash tiene dos formas. Cuando Aegislash usa Escudo Real, cambia a \"Forma Escudo\", intercambiando sus estadísticas de CA y DEX. Cuando usa un movimiento dañino, Aegislash vuelve inmediatamente a \"Forma Espada\", devolviendo sus estadísticas a la normalidad."
+  },
+  "Static": {
+    "Description": "Cuando este Pokémon es golpeado por un ataque cuerpo a cuerpo, tira un d4. Con un resultado de 4, el atacante recibe una cantidad de daño eléctrico igual a la Bonificación de Proficiencia de este Pokémon."
+  },
+  "Steadfast": {
+    "Description": "Una vez por descanso largo, cuando este Pokémon falla una salvación contra una condición de estado, puede elegir pasar en su lugar."
+  },
+  "Steelworker": {
+    "Description": "Este Pokémon añade su Bonificación de Proficiencia al daño infligido por movimientos de tipo acero."
+  },
+  "Stench": {
+    "Description": "Cuando este Pokémon es golpeado por un ataque cuerpo a cuerpo, tira un d10. Con un 10, el atacante se Acobarda."
+  },
+  "Sticky Hold": {
+    "Description": "Los objetos equipados no pueden ser robados ni alejados de este Pokémon."
+  },
+  "Stone Veil": {
+    "Description": "La CA de este Pokémon se incrementa en 2 en terreno rocoso o durante una tormenta de arena."
+  },
+  "Storm Drain": {
+    "Description": "Si este Pokémon o un aliado dentro de 30 pies es objetivo de un movimiento de tipo agua directo que inflige daño, el Pokémon puede usar una reacción para redirigir el objetivo hacia sí mismo y recibir la mitad del daño si le acierta."
+  },
+  "Strong Jaw": {
+    "Description": "Para los movimientos de mordida activados por este Pokémon (Mordisco, Colmillo Rayo, Triturar, etc.), pueden tirar el daño dos veces y elegir cualquiera de los totales."
+  },
+  "Sturdy": {
+    "Description": "Al recibir daño igual a la mitad o más de sus PG actual, tira un d4. Con un resultado de 3 o 4, reduce a la mitad el daño infligido."
+  },
+  "Suction Cups": {
+    "Description": "Este Pokémon no puede ser forzado a salir de la batalla por los movimientos de un oponente."
+  },
+  "Super Luck": {
+    "Description": "Este Pokémon aumenta su rango de golpe crítico en 1 (de 20 a 19+, etc.)"
+  },
+  "Surge Surfer": {
+    "Description": "Cuando este Pokémon comienza su turno en el área de efecto del Campo Eléctrico, su velocidad se duplica."
+  },
+  "Swarm": {
+    "Description": "Este Pokémon duplica su BAMT cuando tiene el 25% o menos de su salud máxima."
+  },
+  "Sweet Veil": {
+    "Description": "Cualquier aliado dentro de 15 pies de este Pokémon (incluido él mismo) es inmune a la condición de sueño."
+  },
+  "Swift Swim": {
+    "Description": "La velocidad de este Pokémon se duplica en condiciones de lluvia."
+  },
+  "Symbiosis": {
+    "Description": "Este Pokémon puede intercambiar objetos equipados con un aliado como una acción libre, siempre que estén a 15 pies de distancia entre sí."
+  },
+  "Synchronize": {
+    "Description": "Si este Pokémon se quema, paraliza o envenena, su atacante recibe la misma condición de estado negativa también (si no es inmune)."
+  },
+  "Tangled Feet": {
+    "Description": "Los ataques contra este Pokémon tienen desventaja cuando está confundido."
+  },
+  "Tangling Hair": {
+    "Description": "Cuando este Pokémon es golpeado con un ataque cuerpo a cuerpo, tira un d4. Con un resultado de 3 o 4, la velocidad del atacante se reduce a 0 hasta el final de su próximo turno."
+  },
+  "Technician": {
+    "Description": "Para movimientos dañinos activados por este Pokémon con 15 PP máximos o más, pueden tirar el daño dos veces y elegir cualquiera de los totales."
+  },
+  "Telepathy": {
+    "Description": "Este Pokémon no puede ser dañado por los ataques de sus aliados."
+  },
+  "Teravolt": {
+    "Description": "Los movimientos de este Pokémon ignoran completamente cualquier habilidad que pudiera obstaculizar o prevenir su efecto en el objetivo o la capacidad del usuario para golpear al objetivo."
+  },
+  "Thick Fat": {
+    "Description": "Este Pokémon recibe la mitad del daño que de otro modo recibiría de daño de tipo Hielo y Fuego."
+  },
+  "Tinted Lens": {
+    "Description": "Los movimientos de este Pokémon ignoran las resistencias."
+  },
+  "Torrent": {
+    "Description": "Este Pokémon duplica su BAMT cuando tiene el 25% o menos de su salud máxima."
+  },
+  "Tough Claws": {
+    "Description": "Un ataque cuerpo a cuerpo exitoso de este Pokémon obtiene automáticamente BAMT, independientemente de su tipo. Si normalmente obtendría BAMT, duplica el BAMT al añadir al daño."
+  },
+  "Toxic Boost": {
+    "Description": "Cuando este Pokémon es golpeado por un ataque de tipo veneno, su próximo ataque se tira con ventaja."
+  },
+  "Trace": {
+    "Description": "Este Pokémon copia una habilidad aleatoria de un oponente al entrar en batalla. La habilidad no puede ser Don Floral, Predicción, Ilusión, Impostor, Multitipo, Rastro, Guardia Mística o Modo Daruma."
+  },
+  "Transformer": {
+    "Description": "Este Pokémon tiene una forma Normal estándar de la cual se basan todas las estadísticas, pero puede cambiar de forma como una acción de bonificación para cambiar drásticamente sus habilidades. Las formas que puede tomar son Ataque, Defensa y Velocidad.\n- En forma de Ataque, añade un adicional de +5 a sus tiradas de ataque, pero todos los ataques contra él tienen ventaja.\n- En forma de Defensa, su CA aumenta en 3, pero sus ataques se tiran con desventaja. Si el movimiento activado requiere una salvación, los objetivos tienen ventaja.\n- En forma de Velocidad, gana una acción de ataque adicional cada turno, pero el ataque se realiza con desventaja. Si es un movimiento que requiere una salvación, los objetivos tienen ventaja."
+  },
+  "Triage": {
+    "Description": "Los movimientos de curación o drenaje de este Pokémon tienen un tiempo de movimiento de 1 acción de bonificación."
+  },
+  "Truant": {
+    "Description": "Este Pokémon no puede usar el mismo movimiento en rondas consecutivas."
+  },
+  "Turboblaze": {
+    "Description": "Los movimientos de este Pokémon ignoran completamente cualquier habilidad que pudiera obstaculizar o prevenir su efecto en el objetivo o la capacidad del usuario para golpear al objetivo."
+  },
+  "Unaware": {
+    "Description": "Cuando este Pokémon ataca a un oponente, ignora cualquier cambio de estadísticas que el oponente haya sido afectado después del inicio de la batalla."
+  },
+  "Unburden": {
+    "Description": "Mientras este Pokémon no sostenga un objeto, gana 10 pies a su velocidad."
+  },
+  "Unnerve": {
+    "Description": "Los oponentes en combate con este Pokémon no pueden comer bayas equipadas."
+  },
+  "Victory Star": {
+    "Description": "Mientras este Pokémon esté en batalla, todos los Pokémon aliados añaden un adicional de +1 a sus tiradas de ataque."
+  },
+  "Vital Spirit": {
+    "Description": "Este Pokémon no puede ser dormido."
+  },
+  "Volt Absorb": {
+    "Description": "Este Pokémon no recibe daño de electricidad o ataques de tipo eléctrico. En su lugar, la mitad de cualquier daño eléctrico infligido es absorbido, restaurando los PG del Pokémon."
+  },
+  "Water Absorb": {
+    "Description": "Este Pokémon no recibe daño de agua o ataques de tipo agua. En su lugar, la mitad de cualquier daño por agua infligido es absorbido, restaurando los PG del Pokémon."
+  },
+  "Water Bubble": {
+    "Description": "Este Pokémon es resistente al daño de tipo fuego e inmune a la condición de quemado."
+  },
+  "Water Compaction": {
+    "Description": "Después de ser dañado por un movimiento de tipo agua, cualquier otro daño infligido a este Pokémon hasta el comienzo de su próximo turno se reduce a la mitad."
+  },
+  "Water Veil": {
+    "Description": "Este Pokémon es inmune a quemaduras."
+  },
+  "Water Weight": {
+    "Description": "Una vez por descanso corto, este Pokémon gana puntos de golpe temporales iguales a su nivel cuando lucha en áreas costeras y pantanosas, o en condiciones de lluvia."
+  },
+  "Weak Armor": {
+    "Description": "Cuando un ataque golpea a este Pokémon, su velocidad aumenta en 5 pies, pero su CA se reduce temporalmente en 1 hasta el final de la batalla (para una reducción máxima de -5)."
+  },
+  "White Smoke": {
+    "Description": "Los movimientos o habilidades de otros Pokémon no pueden reducir las estadísticas de este Pokémon."
+  },
+  "Wimp Out": {
+    "Description": "Cuando un movimiento dañino hace que este Pokémon caiga por debajo del 50% de sus PG máximos, DEBE desengancharse y moverse hasta su velocidad en línea recta hacia su entrenador como una acción libre. Si esto pone al Pokémon en rango de cambio, debe hacerlo como otra acción libre si hay otro Pokémon disponible para reemplazarlo."
+  },
+  "Wonder Guard": {
+    "Description": "Este Pokémon es inmune a ataques dañinos de tipos que no están en su lista de vulnerabilidades. (Solo Shedinja. No se puede pasar ni intercambiar)"
+  },
+  "Wonder Skin": {
+    "Description": "Este Pokémon tiene ventaja en todas las tiradas de salvación contra ser quemado, congelado, envenenado o paralizado."
+  },
+  "Zen Mode": {
+    "Description": "Cuando Darmanitan está por debajo del 50% de sus PG, entra en Modo Zen. En Modo Zen, Darmanitan cambia a la forma de una estatua sólida. Su tipo cambia a Fuego/Psíquico, gana +4 a su CA, y sus puntuaciones de habilidad de FUE y SAB se intercambian."
+  }
+}

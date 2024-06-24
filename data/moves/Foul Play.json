@@ -1,27 +1,5 @@
 {
-  "Damage": {
-    "1": {
-      "amount": 2,
-      "dice_max": 8,
-      "move": true
-    },
-    "10": {
-      "amount": 3,
-      "dice_max": 10,
-      "move": true
-    },
-    "17": {
-      "amount": 4,
-      "dice_max": 12,
-      "move": true
-    },
-    "5": {
-      "amount": 2,
-      "dice_max": 10,
-      "move": true
-    }
-  },
-  "Description": "You turn a creature's own power against it. Make a melee attack roll using your MOVE power. On a hit, the target takes an amount of dark damage equal to + the target's level.",
+  "Description": "You turn a creature's own power against it. Make a melee attack roll using your MOVE power. On a hit, the target takes dark damage equal to the target's level + the corresponding dice according to the user's level.\n\nFrom level 1 to 4: 2d8\nFrom level 5 to 9: 2d10\nFrom level 10 to 16: 3d10\nFrom level 17 to 20: 4d12",
   "Duration": "Instantaneous",
   "Move Power": [
     "STR",

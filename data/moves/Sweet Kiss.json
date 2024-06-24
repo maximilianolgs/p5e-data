@@ -5,6 +5,7 @@
     "WIS",
     "CHA"
   ],
+  "Save": "CHA",
   "Move Time": "1 action",
   "PP": 10,
   "Range": "Melee",

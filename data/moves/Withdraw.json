@@ -5,6 +5,5 @@
   "PP": 3,
   "Range": "Self",
   "Scaling": "Higher Levels: Increase your AC by +3 at level 10 and above.",
-  "Type": "Water",
-  "atk": true
+  "Type": "Water"
 }

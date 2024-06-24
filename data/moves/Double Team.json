@@ -4,6 +4,5 @@
   "Move Time": "1 bonus action",
   "PP": 3,
   "Range": "Self",
-  "Type": "Normal",
-  "atk": false
+  "Type": "Normal"
 }

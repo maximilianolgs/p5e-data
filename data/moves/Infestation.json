@@ -21,7 +21,7 @@
       "move": true
     }
   },
-  "Description": "You summon an infestation of tiny insects to attack a creature for multiple turns. Make a ranged attack on a target. On a hit, the target takes bug damage and becomes infested with swarming bugs. As long as you maintain concentration, the target takes an additional bug damage at the end of each of its next three turns.",
+  "Description": "You summon an infestation of tiny insects to attack a creature for multiple turns. Make a ranged attack on a target. On a hit, the target takes bug damage and becomes infested with swarming bugs. As long as you maintain concentration, the target takes an additional bug damage at the end of each of its next three turns. The MOVE bonus is not added to the aditional damage.",
   "Duration": "3 rounds, Concentration",
   "Move Power": [
     "DEX"

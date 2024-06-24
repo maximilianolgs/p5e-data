@@ -21,7 +21,7 @@
       "move": true
     }
   },
-  "Description": "If a creature attempts to use a move that boosts its stats, you may use your reaction to negate the increase and convert it into healing energy, recovering regain hit points. This includes critical hit bonuses, AC increases, speed, attack and damage boosts, etc.",
+  "Description": "If a creature attempts to use a move that boosts its stats, you may use your reaction to negate the increase and convert it into healing energy, recovering hit points. This includes critical hit bonuses, AC increases, speed, attack and damage boosts, etc.",
   "Duration": "Instantaneous",
   "Move Power": [
     "CON"

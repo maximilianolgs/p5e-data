@@ -1,0 +1,281 @@
+{
+	"Ability Capsule": {
+		"Effect": "Un objeto consumible que permite a un Pokémon cambiar la habilidad no oculta que conoce (si hay dos opciones disponibles)."
+	},
+	"Air Balloon": {
+		"Effect": "El Pokémon que lleva esto es inmune a los movimientos de tipo tierra. Se revienta cuando el portador es golpeado por un ataque."
+	},
+	"Arceus Plate": {
+		"Effect": "Cambia el tipo de Arceus y el movimiento \"Juicio\""
+	},
+	"Aspear Berry": {
+		"Effect": "Cura la congelación. Se activa y consume cuando un Pokémon se congela"
+	},
+	"Assault Vest": {
+		"Effect": "El Pokémon que lleva esto gana +1 a su CA, pero solo puede usar movimientos dañinos."
+	},
+	"Babiri Berry": {
+		"Effect": "El Pokémon recibe la mitad de daño de un movimiento de tipo acero. Se activa y consume cuando recibe daño de un movimiento de tipo acero."
+	},
+	"Big Root": {
+		"Effect": "Los movimientos que roban PG restauran 1d12 PG adicionales (sin daño adicional al objetivo)."
+	},
+	"Black Belt": {
+		"Effect": "El portador añade la Bonificación de Proficiencia al daño de los movimientos de tipo lucha (una vez por movimiento)."
+	},
+	"Black Glasses": {
+		"Effect": "El portador añade la Bonificación de Proficiencia al daño de los movimientos de tipo oscuro (una vez por movimiento)."
+	},
+	"Black Sludge": {
+		"Effect": "Restaura PG igual al bono de prof. del portador a los tipos veneno al final de cada uno de sus turnos. Daña a los tipos no veneno por la misma cantidad en lugar de curar."
+	},
+	"Charcoal": {
+		"Effect": "El portador añade la Bonificación de Proficiencia al daño de los movimientos de tipo fuego (una vez por movimiento)."
+	},
+	"Charti Berry": {
+		"Effect": "El Pokémon recibe la mitad de daño de un movimiento de tipo roca. Se activa y consume cuando recibe daño de un movimiento de tipo roca."
+	},
+	"Cheri Berry": {
+		"Effect": "Cura la parálisis. Se activa y consume cuando un Pokémon se paraliza"
+	},
+	"Chesto Berry": {
+		"Effect": "Despierta del sueño. Se activa y consume cuando un Pokémon se duerme"
+	},
+	"Chilan Berry": {
+		"Effect": "El Pokémon recibe la mitad de daño de un movimiento de tipo normal. Se activa y consume cuando recibe daño de un movimiento de tipo normal."
+	},
+	"Chople Berry": {
+		"Effect": "El Pokémon recibe la mitad de daño de un movimiento de tipo lucha. Se activa y consume cuando recibe daño de un movimiento de tipo lucha."
+	},
+	"Coba  Berry": {
+		"Effect": "El Pokémon recibe la mitad de daño de un movimiento de tipo volador. Se activa y consume cuando recibe daño de un movimiento de tipo volador."
+	},
+	"Colbur Berry": {
+		"Effect": "El Pokémon recibe la mitad de daño de un movimiento de tipo oscuro. Se activa y consume cuando recibe daño de un movimiento de tipo oscuro."
+	},
+	"DNA Splicer": {
+		"Effect": "Permite a Kyurem fusionarse en forma Negra o Blanca."
+	},
+	"Damp Rock": {
+		"Effect": "El portador aumenta la duración de su movimiento Danza Lluvia por 3 rondas."
+	},
+	"Deep Sea Scale": {
+		"Effect": "Mientras un Clamperl sostiene esto, su CA aumenta en 1"
+	},
+	"Deep Sea Tooth": {
+		"Effect": "Mientras un Clamperl sostiene esto, su BAMT aumenta en 1"
+	},
+	"Dragon Fang": {
+		"Effect": "El portador añade la Bonificación de Proficiencia al daño de los movimientos de tipo dragón (una vez por movimiento)."
+	},
+	"Eject Button": {
+		"Effect": "Cuando es golpeado por un ataque, el portador puede retirarse como una acción libre"
+	},
+	"Flame Orb": {
+		"Effect": "Mientras se sostiene, este orbe inflige el estado de quemadura al final de cada turno."
+	},
+	"Focus Band": {
+		"Effect": "Tira un d20 cuando sufre del estado de Acobardado. Con un 10 o más, no se Acobarda."
+	},
+	"Genesect Drive": {
+		"Effect": "Casetes que cambian el tipo del movimiento \"Tecnoblasto\" de Genesect"
+	},
+	"Gracidea Flower": {
+		"Effect": "Una hermosa flor que permite a Shaymin cambiar de forma."
+	},
+	"Grepa Berry": {
+		"Effect": "Baja permanentemente la puntuación de SAB de un Pokémon en 2, pero aumenta la Lealtad en 1."
+	},
+	"Griseous Orb": {
+		"Effect": "Permite a Giratina cambiar de forma. Sus movimientos de tipo Dragón y Fantasma duplican el bono  BAMT ."
+	},
+	"Haban Berry": {
+		"Effect": "El Pokémon recibe la mitad de daño de un movimiento de tipo dragón. Se activa y consume cuando recibe daño de un movimiento de tipo dragón."
+	},
+	"Hard Stone": {
+		"Effect": "El portador añade la Bonificación de Proficiencia al daño de los movimientos de tipo roca (una vez por movimiento)."
+	},
+	"Heat Rock": {
+		"Effect": "El portador aumenta la duración de su movimiento Día Soleado por 3 rondas."
+	},
+	"Hondew Berry": {
+		"Effect": "Baja permanentemente la puntuación de DES de un Pokémon en 2, pero aumenta la Lealtad en 1."
+	},
+	"Icy Rock": {
+		"Effect": "El portador aumenta la duración de su movimiento Granizo por 3 rondas."
+	},
+	"Kasib Berry": {
+		"Effect": "El Pokémon recibe la mitad de daño de un movimiento de tipo fantasma. Se activa y consume cuando recibe daño de un movimiento de tipo fantasma."
+	},
+	"Kebia Berry": {
+		"Effect": "El Pokémon recibe la mitad de daño de un movimiento de tipo veneno. Se activa y consume cuando recibe daño de un movimiento de tipo veneno."
+	},
+	"Kelpsy Berry": {
+		"Effect": "Baja permanentemente la puntuación de FUE de un Pokémon en 2, pero aumenta la Lealtad en 1."
+	},
+	"King's Rock": {
+		"Effect": "En tiradas de ataque natural de 19 o 20, el objetivo se Acobarda."
+	},
+	"Leftovers": {
+		"Effect": "Restaura PG igual al bono de prof. del portador al final de cada uno de sus turnos."
+	},
+	"Leppa Berry": {
+		"Effect": "Restaura 10 PP a un movimiento. Se activa y consume cuando a un Pokémon se le acaban los PP de un movimiento."
+	},
+	"Life Orb": {
+		"Effect": "El portador añade la Bonificación de Proficiencia a sus tiradas de daño, pero recibe la misma cantidad de daño a sí mismo."
+	},
+	"Light Ball": {
+		"Effect": "Aumenta el modificador de movimiento de Pikachu en +1"
+	},
+	"Lucky Egg": {
+		"Effect": "La XP de batalla para este Pokémon se incrementa en un 20%"
+	},
+	"Lucky Punch": {
+		"Effect": "Aumenta el rango de golpe crítico de Chansey en 1 (de 20 a 19+, etc.)."
+	},
+	"Lum Berry": {
+		"Effect": "Cura cualquier efecto de estado negativo. Se activa y consume cuando un Pokémon es afectado con un estado."
+	},
+	"Magnet": {
+		"Effect": "El portador añade la Bonificación de Proficiencia al daño de los movimientos de tipo eléctrico (una vez por movimiento)."
+	},
+	"Megalite": {
+		"Effect": "Permite a un Pokémon de etapa final \"Mega Evolucionar\""
+	},
+	"Metal Coat": {
+		"Effect": "El portador añade la Bonificación de Proficiencia al daño de los movimientos de tipo acero (una vez por movimiento)."
+	},
+	"Metal Powder": {
+		"Effect": "Cuando lo lleva Ditto, su puntuación de CON aumenta en +3"
+	},
+	"Miracle Seed": {
+		"Effect": "El portador añade la Bonificación de Proficiencia al daño de los movimientos de tipo planta (una vez por movimiento)."
+	},
+	"Mystic Water": {
+		"Effect": "El portador añade la Bonificación de Proficiencia al daño de los movimientos de tipo agua (una vez por movimiento)."
+	},
+	"N-Lunarizer": {
+		"Effect": "Permite a Necrozma fusionarse con Lunala para crear a Necrozma Melena Crepuscular."
+	},
+	"N-Solarizer": {
+		"Effect": "Permite a Necrozma fusionarse con Solgaleo para crear a Necrozma Alas del Alba."
+	},
+	"NeverMelt Ice": {
+		"Effect": "El portador añade la Bonificación de Proficiencia al daño de los movimientos de tipo hielo (una vez por movimiento)."
+	},
+	"Occa Berry": {
+		"Effect": "El Pokémon recibe la mitad de daño de un movimiento de tipo fuego. Se activa y consume cuando recibe daño de un movimiento de tipo fuego."
+	},
+	"Oran Berry": {
+		"Effect": "Restaura 2d4+2 HP. Se activa y consume cuando el HP del Pokémon cae por debajo del 50%."
+	},
+	"Passho Berry": {
+		"Effect": "El Pokémon recibe la mitad de daño de un movimiento de tipo agua. Se activa y consume cuando recibe daño de un movimiento de tipo agua."
+	},
+	"Payapa Berry": {
+		"Effect": "El Pokémon recibe la mitad de daño de un movimiento de tipo psíquico. Se activa y consume cuando recibe daño de un movimiento de tipo psíquico."
+	},
+	"Pecha Berry": {
+		"Effect": "Cura el envenenamiento. Se activa y consume cuando un Pokémon se envenena."
+	},
+	"Persim Berry": {
+		"Effect": "Cura la confusión. Se activa y consume cuando un Pokémon se confunde."
+	},
+	"Poison Barb": {
+		"Effect": "El portador añade la Bonificación de Proficiencia al daño de los movimientos de tipo veneno (una vez por movimiento)."
+	},
+	"Polkadot Bow": {
+		"Effect": "El portador añade la Bonificación de Proficiencia al daño de los movimientos de tipo hada (una vez por movimiento)."
+	},
+	"Pomeg Berry": {
+		"Effect": "Baja permanentemente la puntuación de CON del Pokémon en 2, pero aumenta la Lealtad en 1."
+	},
+	"Qualot Berry": {
+		"Effect": "Baja permanentemente la CA del Pokémon en 2, pero aumenta la Lealtad en 1."
+	},
+	"Quick Claw": {
+		"Effect": "Aumenta la tirada de iniciativa en +3 mientras este Pokémon esté activo."
+	},
+	"Rawst Berry": {
+		"Effect": "Cura las quemaduras. Se activa y consume cuando un Pokémon se quema."
+	},
+	"Razor Claw": {
+		"Effect": "Aumenta el rango de golpe crítico en 1 (de 20 a 19+, etc.)."
+	},
+	"Razz Berry": {
+		"Effect": "Cuando lo lleva un Pokémon activo, el entrenador gana +1 en intentos de captura."
+	},
+	"Reveal Glass": {
+		"Effect": "Permite a Thundurus, Landorus y Tornadus cambiar de forma."
+	},
+	"Rindo Berry": {
+		"Effect": "El Pokémon recibe la mitad de daño de un movimiento de tipo planta. Se activa y consume cuando recibe daño de un movimiento de tipo planta."
+	},
+	"Roseli Berry": {
+		"Effect": "El Pokémon recibe la mitad de daño de un movimiento de tipo hada. Se activa y consume cuando recibe daño de un movimiento de tipo hada."
+	},
+	"Scope Lens": {
+		"Effect": "Aumenta el rango de golpe crítico en 1 (de 20 a 19+, etc.)."
+	},
+	"Sharp Beak": {
+		"Effect": "El portador añade la Bonificación de Proficiencia al daño de los movimientos de tipo volador."
+	},
+	"Shell Bell": {
+		"Effect": "Restaura HP igual al bono de prof. después de activar un movimiento que daña al menos a una criatura."
+	},
+	"Shuca Berry": {
+		"Effect": "El Pokémon recibe la mitad de daño de un movimiento de tipo tierra. Se activa y consume cuando recibe daño de un movimiento de tipo tierra."
+	},
+	"Silk Scarf": {
+		"Effect": "El portador añade la Bonificación de Proficiencia al daño de los movimientos de tipo normal (una vez por movimiento)."
+	},
+	"Silver Powder": {
+		"Effect": "El portador añade la Bonificación de Proficiencia al daño de los movimientos de tipo bicho (una vez por movimiento)."
+	},
+	"Sitrus Berry": {
+		"Effect": "Restaura 30 HP. Se activa y consume cuando el HP del Pokémon cae por debajo del 50%."
+	},
+	"Smoke Ball": {
+		"Effect": "Garantiza un éxito en un intento de huir de batallas contra Pokémon salvajes."
+	},
+	"Smooth Rock": {
+		"Effect": "El portador aumenta la duración de su movimiento Tormenta de Arena por 3 rondas."
+	},
+	"Soft Sand": {
+		"Effect": "El portador añade la Bonificación de Proficiencia al daño de los movimientos de tipo tierra (una vez por movimiento)."
+	},
+	"Soothe Bell": {
+		"Effect": "Reinicia la calificación de Lealtad de un Pokémon a +0."
+	},
+	"Spell Tag": {
+		"Effect": "El portador añade la Bonificación de Proficiencia al daño de los movimientos de tipo fantasma (una vez por movimiento)."
+	},
+	"Stick": {
+		"Effect": "Aumenta el rango de golpe crítico de Farfetch'd en 1 (de 20 a 19+, etc.)."
+	},
+	"Tanga Berry": {
+		"Effect": "El Pokémon recibe la mitad de daño de un movimiento de tipo bicho. Se activa y consume cuando recibe daño de un movimiento de tipo bicho."
+	},
+	"Thick Club": {
+		"Effect": "Dobla el bono BAMT de los movimientos de Cubone o Marowak."
+	},
+	"Tomato Berry": {
+		"Effect": "Baja permanentemente la velocidad del Pokémon en 10, pero aumenta la Lealtad en 1."
+	},
+	"Toxic Orb": {
+		"Effect": "Mientras se sostiene, este orbe inflige el estado de envenenamiento al final de cada turno."
+	},
+	"Twisted Spoon": {
+		"Effect": "El portador añade la Bonificación de Proficiencia al daño de los movimientos de tipo psíquico (una vez por movimiento)."
+	},
+	"Wacan Berry": {
+		"Effect": "El Pokémon recibe la mitad de daño de un movimiento de tipo eléctrico. Se activa y consume cuando recibe daño de un movimiento de tipo eléctrico."
+	},
+	"Wide Lens": {
+		"Effect": "El portador gana +1 en todas las tiradas de ataque."
+	},
+	"Yache Berry": {
+		"Effect": "El Pokémon recibe la mitad de daño de un movimiento de tipo hielo. Se activa y consume cuando recibe daño de un movimiento de tipo hielo."
+	}
+}
