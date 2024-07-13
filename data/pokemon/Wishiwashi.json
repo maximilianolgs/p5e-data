@@ -104,13 +104,14 @@
           "saving_throws": [
             "Constitution"
           ],
-          "size": "Huge"
+          "size": "Huge",
+          "MIN LVL FD": 4
         },
         "display": "Wishiwashi (School Form)",
         "original_species": "Wishiwashi School Form"
       },
       "Solo Form": {
-        "display": "Wishiwashi",
+        "display": "Wishiwashi (Solo Form)",
         "original_species": "Wishiwashi Solo Form"
       }
     }

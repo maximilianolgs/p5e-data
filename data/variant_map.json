@@ -1,26 +1,5 @@
 {
-  "Pumpkaboo": [
-    "Pumpkaboo - Small",
-    "Pumpkaboo - Average",
-    "Pumpkaboo - Large",
-    "Pumpkaboo - Supersize"
-  ],
-  "Gourgeist": [
-    "Gourgeist - Small",
-    "Gourgeist - Average",
-    "Gourgeist - Large",
-    "Gourgeist- Supersize"
-  ],
-  "Rotom": [
-    "Rotom",
-    "Rotom Heat",
-    "Rotom Wash",
-    "Rotom Frost",
-    "Rotom Fan",
-    "Rotom Mow"
-  ],
   "Arceus": [
-    "Arceus (Normal)",
     "Arceus (Bug)",
     "Arceus (Dark)",
     "Arceus (Dragon)",
@@ -33,6 +12,7 @@
     "Arceus (Grass)",
     "Arceus (Ground)",
     "Arceus (Ice)",
+    "Arceus (Normal)",
     "Arceus (Poison)",
     "Arceus (Psychic)",
     "Arceus (Rock)",
@@ -40,59 +20,121 @@
     "Arceus (Water)"
   ],
   "Castform": [
-    "Castform",
-    "Castform Sunny",
     "Castform Rainy",
-    "Castform Snowy"
+    "Castform Snowy",
+    "Castform Sunny"
+  ],
+  "Diglett": [
+    "Alolan Diglett"
+  ],
+  "Dugtrio": [
+    "Alolan Dugtrio"
+  ],
+  "Exeggutor": [
+    "Alolan Exeggutor"
+  ],
+  "Geodude": [
+    "Alolan Geodude"
   ],
   "Giratina": [
     "Giratina Altered Forme",
     "Giratina Origin Forme"
   ],
+  "Golem": [
+    "Alolan Golem"
+  ],
+  "Gourgeist": [
+    "Gourgeist - Average",
+    "Gourgeist - Large",
+    "Gourgeist - Small",
+    "Gourgeist- Supersize"
+  ],
+  "Graveler": [
+    "Alolan Graveler"
+  ],
+  "Grimer": [
+    "Alolan Grimer"
+  ],
   "Hoopa": [
     "Hoopa Confined",
     "Hoopa Unbound"
   ],
-  "Wormadam": [
-    "Wormadam Plant Cloak",
-    "Wormadam Sand Cloak",
-    "Wormadam Trash Cloak"
-  ],
-  "Zygarde": [
-    "Zygarde 10% Forme",
-    "Zygarde 50% Forme",
-    "Zygarde Complete Forme"
-  ],
   "Kyurem": [
-    "Kyurem",
     "Black Kyurem",
     "White Kyurem"
   ],
-  "Shaymin": [
-    "Shaymin Land",
-    "Shaymin Sky"
+  "Lycanroc": [
+    "Lycanroc Dusk Form",
+    "Lycanroc Midday Form",
+    "Lycanroc Midnight Form"
+  ],
+  "Marowak": [
+    "Alolan Marowak"
   ],
   "Meloetta": [
     "Meloetta - Aria",
     "Meloetta - Pirouette"
   ],
-  "Wishiwashi": [
-    "Wishiwashi Solo Form",
-    "Wishiwashi School Form"
+  "Meowth": [
+    "Alolan Meowth"
+  ],
+  "Minior": [
+    "Minior Core Form",
+    "Minior Meteor Form"
+  ],
+  "Muk": [
+    "Alolan Muk"
+  ],
+  "Necrozma": [
+    "Dawn Wings Necrozma",
+    "Dusk Mane Necrozma",
+    "Ultra Necrozma"
+  ],
+  "Ninetales": [
+    "Alolan Ninetales"
   ],
   "Oricorio": [
     "Oricorio Baile Style",
-    "Oricorio Pom-Pom Style",
     "Oricorio Pa'u Style",
+    "Oricorio Pom-Pom Style",
     "Oricorio Sensu Style"
   ],
-  "Lycanroc": [
-    "Lycanroc Midday Form",
-    "Lycanroc Midnight Form",
-    "Lycanroc Dusk Form"
+  "Persian": [
+    "Alolan Persian"
+  ],
+  "Pumpkaboo": [
+    "Pumpkaboo - Average",
+    "Pumpkaboo - Large",
+    "Pumpkaboo - Small",
+    "Pumpkaboo - Supersize"
+  ],
+  "Raichu": [
+    "Alolan Raichu"
+  ],
+  "Raticate": [
+    "Alolan Raticate"
+  ],
+  "Rattata": [
+    "Alolan Rattata"
+  ],
+  "Rotom": [
+    "Rotom Fan",
+    "Rotom Frost",
+    "Rotom Heat",
+    "Rotom Mow",
+    "Rotom Wash"
+  ],
+  "Sandshrew": [
+    "Alolan Sandshrew"
+  ],
+  "Sandslash": [
+    "Alolan Sandslash"
+  ],
+  "Shaymin": [
+    "Shaymin Land",
+    "Shaymin Sky"
   ],
   "Silvally": [
-    "Silvally (Normal)",
     "Silvally (Bug)",
     "Silvally (Dark)",
     "Silvally (Dragon)",
@@ -105,92 +147,28 @@
     "Silvally (Grass)",
     "Silvally (Ground)",
     "Silvally (Ice)",
+    "Silvally (Normal)",
     "Silvally (Poison)",
     "Silvally (Psychic)",
     "Silvally (Rock)",
     "Silvally (Steel)",
     "Silvally (Water)"
   ],
-  "Minior": [
-    "Minior Meteor Form",
-    "Minior Core Form"
-  ],
-  "Necrozma": [
-    "Necrozma",
-    "Dusk Mane Necrozma",
-    "Dawn Wings Necrozma",
-    "Ultra Necrozma"
-  ],
-  "Rattata": [
-    "Rattata",
-    "Alolan Rattata"
-  ],
-  "Raticate": [
-    "Raticate",
-    "Alolan Raticate"
-  ],
-  "Raichu": [
-    "Raichu",
-    "Alolan Raichu"
-  ],
-  "Sandshrew": [
-    "Sandshrew",
-    "Alolan Sandshrew"
-  ],
-  "Sandslash": [
-    "Sandslash",
-    "Alolan Sandslash"
-  ],
   "Vulpix": [
-    "Vulpix",
     "Alolan Vulpix"
   ],
-  "Ninetales": [
-    "Ninetales",
-    "Alolan Ninetales"
+  "Wishiwashi": [
+    "Wishiwashi School Form",
+    "Wishiwashi Solo Form"
   ],
-  "Diglett": [
-    "Diglett",
-    "Alolan Diglett"
+  "Wormadam": [
+    "Wormadam Plant Cloak",
+    "Wormadam Sand Cloak",
+    "Wormadam Trash Cloak"
   ],
-  "Dugtrio": [
-    "Dugtrio",
-    "Alolan Dugtrio"
-  ],
-  "Meowth": [
-    "Meowth",
-    "Alolan Meowth"
-  ],
-  "Persian": [
-    "Persian",
-    "Alolan Persian"
-  ],
-  "Geodude": [
-    "Geodude",
-    "Alolan Geodude"
-  ],
-  "Golem": [
-    "Golem",
-    "Alolan Golem"
-  ],
-  "Grimer": [
-    "Grimer",
-    "Alolan Grimer"
-  ],
-  "Muk": [
-    "Muk",
-    "Alolan Muk"
-  ],
-  "Exeggutor": [
-    "Exeggutor",
-    "Alolan Exeggutor"
-  ],
-  "Marowak": [
-    "Marowak",
-    "Alolan Marowak"
-  ],
-  "Graveler": [
-    "Graveler",
-    "Alolan Graveler"
+  "Zygarde": [
+    "Zygarde 10% Forme",
+    "Zygarde 50% Forme",
+    "Zygarde Complete Forme"
   ]
 }

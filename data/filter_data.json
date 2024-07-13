@@ -154,6 +154,16 @@
     "SR": 10.0,
     "MIN LVL FD": 8
   },
+  "Alolan Rattata": {
+    "index": 19,
+    "Type": [
+      "Dark",
+      "Normal"
+    ],
+    "SR": 0.25,
+    "MIN LVL FD": 1,
+    "variant": "true"
+  },
   "Rattata": {
     "index": 19,
     "Type": [
@@ -161,6 +171,16 @@
     ],
     "SR": 0.25,
     "MIN LVL FD": 1
+  },
+  "Alolan Raticate": {
+    "index": 20,
+    "Type": [
+      "Dark",
+      "Normal"
+    ],
+    "SR": 5.0,
+    "MIN LVL FD": 5,
+    "variant": "true"
   },
   "Raticate": {
     "index": 20,
@@ -212,6 +232,16 @@
     "SR": 0.5,
     "MIN LVL FD": 1
   },
+  "Alolan Raichu": {
+    "index": 26,
+    "Type": [
+      "Electric",
+      "Psychic"
+    ],
+    "SR": 7.0,
+    "MIN LVL FD": 5,
+    "variant": "true"
+  },
   "Raichu": {
     "index": 26,
     "Type": [
@@ -220,6 +250,16 @@
     "SR": 7.0,
     "MIN LVL FD": 5
   },
+  "Alolan Sandshrew": {
+    "index": 27,
+    "Type": [
+      "Ice",
+      "Steel"
+    ],
+    "SR": 0.5,
+    "MIN LVL FD": 1,
+    "variant": "true"
+  },
   "Sandshrew": {
     "index": 27,
     "Type": [
@@ -227,6 +267,16 @@
     ],
     "SR": 0.5,
     "MIN LVL FD": 1
+  },
+  "Alolan Sandslash": {
+    "index": 28,
+    "Type": [
+      "Ice",
+      "Steel"
+    ],
+    "SR": 7.0,
+    "MIN LVL FD": 5,
+    "variant": "true"
   },
   "Sandslash": {
     "index": 28,
@@ -302,6 +352,15 @@
     "SR": 8.0,
     "MIN LVL FD": 5
   },
+  "Alolan Vulpix": {
+    "index": 37,
+    "Type": [
+      "Ice"
+    ],
+    "SR": 0.25,
+    "MIN LVL FD": 1,
+    "variant": "true"
+  },
   "Vulpix": {
     "index": 37,
     "Type": [
@@ -309,6 +368,16 @@
     ],
     "SR": 0.25,
     "MIN LVL FD": 1
+  },
+  "Alolan Ninetales": {
+    "index": 38,
+    "Type": [
+      "Ice",
+      "Fairy"
+    ],
+    "SR": 7.0,
+    "MIN LVL FD": 5,
+    "variant": "true"
   },
   "Ninetales": {
     "index": 38,
@@ -417,6 +486,16 @@
     "SR": 8.0,
     "MIN LVL FD": 8
   },
+  "Alolan Diglett": {
+    "index": 50,
+    "Type": [
+      "Ground",
+      "Steel"
+    ],
+    "SR": 0.5,
+    "MIN LVL FD": 1,
+    "variant": "true"
+  },
   "Diglett": {
     "index": 50,
     "Type": [
@@ -424,6 +503,16 @@
     ],
     "SR": 0.5,
     "MIN LVL FD": 1
+  },
+  "Alolan Dugtrio": {
+    "index": 51,
+    "Type": [
+      "Ground",
+      "Steel"
+    ],
+    "SR": 8.0,
+    "MIN LVL FD": 5,
+    "variant": "true"
   },
   "Dugtrio": {
     "index": 51,
@@ -433,6 +522,15 @@
     "SR": 8.0,
     "MIN LVL FD": 5
   },
+  "Alolan Meowth": {
+    "index": 52,
+    "Type": [
+      "Dark"
+    ],
+    "SR": 0.5,
+    "MIN LVL FD": 1,
+    "variant": "true"
+  },
   "Meowth": {
     "index": 52,
     "Type": [
@@ -440,6 +538,15 @@
     ],
     "SR": 0.5,
     "MIN LVL FD": 1
+  },
+  "Alolan Persian": {
+    "index": 53,
+    "Type": [
+      "Dark"
+    ],
+    "SR": 7.0,
+    "MIN LVL FD": 5,
+    "variant": "true"
   },
   "Persian": {
     "index": 53,
@@ -615,6 +722,16 @@
     "SR": 8.0,
     "MIN LVL FD": 5
   },
+  "Alolan Geodude": {
+    "index": 74,
+    "Type": [
+      "Rock",
+      "Electric"
+    ],
+    "SR": 0.5,
+    "MIN LVL FD": 1,
+    "variant": "true"
+  },
   "Geodude": {
     "index": 74,
     "Type": [
@@ -624,6 +741,16 @@
     "SR": 0.5,
     "MIN LVL FD": 1
   },
+  "Alolan Graveler": {
+    "index": 75,
+    "Type": [
+      "Rock",
+      "Electric"
+    ],
+    "SR": 6.0,
+    "MIN LVL FD": 5,
+    "variant": "true"
+  },
   "Graveler": {
     "index": 75,
     "Type": [
@@ -632,6 +759,16 @@
     ],
     "SR": 6.0,
     "MIN LVL FD": 5
+  },
+  "Alolan Golem": {
+    "index": 76,
+    "Type": [
+      "Rock",
+      "Electric"
+    ],
+    "SR": 13.0,
+    "MIN LVL FD": 10,
+    "variant": "true"
   },
   "Golem": {
     "index": 76,
@@ -738,6 +875,16 @@
     "SR": 10.0,
     "MIN LVL FD": 8
   },
+  "Alolan Grimer": {
+    "index": 88,
+    "Type": [
+      "Poison",
+      "Dark"
+    ],
+    "SR": 0.5,
+    "MIN LVL FD": 1,
+    "variant": "true"
+  },
   "Grimer": {
     "index": 88,
     "Type": [
@@ -745,6 +892,16 @@
     ],
     "SR": 0.5,
     "MIN LVL FD": 1
+  },
+  "Alolan Muk": {
+    "index": 89,
+    "Type": [
+      "Poison",
+      "Dark"
+    ],
+    "SR": 10.0,
+    "MIN LVL FD": 8,
+    "variant": "true"
   },
   "Muk": {
     "index": 89,
@@ -864,6 +1021,16 @@
     "SR": 0.5,
     "MIN LVL FD": 1
   },
+  "Alolan Exeggutor": {
+    "index": 103,
+    "Type": [
+      "Grass",
+      "Dragon"
+    ],
+    "SR": 8.0,
+    "MIN LVL FD": 5,
+    "variant": "true"
+  },
   "Exeggutor": {
     "index": 103,
     "Type": [
@@ -880,6 +1047,16 @@
     ],
     "SR": 0.5,
     "MIN LVL FD": 1
+  },
+  "Alolan Marowak": {
+    "index": 105,
+    "Type": [
+      "Fire",
+      "Ghost"
+    ],
+    "SR": 7.0,
+    "MIN LVL FD": 5,
+    "variant": "true"
   },
   "Marowak": {
     "index": 105,
@@ -2976,6 +3153,33 @@
     "SR": 5.0,
     "MIN LVL FD": 1
   },
+  "Castform Rainy": {
+    "index": 351,
+    "Type": [
+      "Water"
+    ],
+    "SR": 5.0,
+    "MIN LVL FD": 1,
+    "variant": "true"
+  },
+  "Castform Snowy": {
+    "index": 351,
+    "Type": [
+      "Ice"
+    ],
+    "SR": 5.0,
+    "MIN LVL FD": 1,
+    "variant": "true"
+  },
+  "Castform Sunny": {
+    "index": 351,
+    "Type": [
+      "Fire"
+    ],
+    "SR": 5.0,
+    "MIN LVL FD": 1,
+    "variant": "true"
+  },
   "Kecleon": {
     "index": 352,
     "Type": [
@@ -3489,7 +3693,7 @@
     "SR": 0.25,
     "MIN LVL FD": 1
   },
-  "Wormadam": {
+  "Wormadam Plant Cloak": {
     "index": 413,
     "Type": [
       "Bug",
@@ -3497,6 +3701,26 @@
     ],
     "SR": 6.0,
     "MIN LVL FD": 5
+  },
+  "Wormadam Sand Cloak": {
+    "index": 413,
+    "Type": [
+      "Bug",
+      "Ground"
+    ],
+    "SR": 6.0,
+    "MIN LVL FD": 5,
+    "variant": "true"
+  },
+  "Wormadam Trash Cloak": {
+    "index": 413,
+    "Type": [
+      "Bug",
+      "Steel"
+    ],
+    "SR": 6.0,
+    "MIN LVL FD": 5,
+    "variant": "true"
   },
   "Mothim": {
     "index": 414,
@@ -4053,6 +4277,46 @@
     "SR": 11.0,
     "MIN LVL FD": 10
   },
+  "Rotom Fan": {
+    "index": 479,
+    "Type": [
+      "Electric",
+      "Flying"
+    ],
+    "SR": 8.0,
+    "MIN LVL FD": 5,
+    "variant": "true"
+  },
+  "Rotom Frost": {
+    "index": 479,
+    "Type": [
+      "Electric",
+      "Ice"
+    ],
+    "SR": 8.0,
+    "MIN LVL FD": 5,
+    "variant": "true"
+  },
+  "Rotom Heat": {
+    "index": 479,
+    "Type": [
+      "Electric",
+      "Fire"
+    ],
+    "SR": 8.0,
+    "MIN LVL FD": 5,
+    "variant": "true"
+  },
+  "Rotom Mow": {
+    "index": 479,
+    "Type": [
+      "Electric",
+      "Grass"
+    ],
+    "SR": 8.0,
+    "MIN LVL FD": 5,
+    "variant": "true"
+  },
   "Rotom": {
     "index": 479,
     "Type": [
@@ -4061,6 +4325,16 @@
     ],
     "SR": 8.0,
     "MIN LVL FD": 5
+  },
+  "Rotom Wash": {
+    "index": 479,
+    "Type": [
+      "Electric",
+      "Water"
+    ],
+    "SR": 8.0,
+    "MIN LVL FD": 5,
+    "variant": "true"
   },
   "Uxie": {
     "index": 480,
@@ -4121,7 +4395,7 @@
     "SR": 15.0,
     "MIN LVL FD": 20
   },
-  "Giratina": {
+  "Giratina Altered Forme": {
     "index": 487,
     "Type": [
       "Ghost",
@@ -4129,6 +4403,16 @@
     ],
     "SR": 15.0,
     "MIN LVL FD": 20
+  },
+  "Giratina Origin Forme": {
+    "index": 487,
+    "Type": [
+      "Ghost",
+      "Dragon"
+    ],
+    "SR": 15.0,
+    "MIN LVL FD": 20,
+    "variant": "true"
   },
   "Cresselia": {
     "index": 488,
@@ -4162,7 +4446,7 @@
     "SR": 15.0,
     "MIN LVL FD": 20
   },
-  "Shaymin": {
+  "Shaymin Land": {
     "index": 492,
     "Type": [
       "Grass"
@@ -4170,13 +4454,176 @@
     "SR": 15.0,
     "MIN LVL FD": 15
   },
-  "Arceus": {
+  "Shaymin Sky": {
+    "index": 492,
+    "Type": [
+      "Grass",
+      "Flying"
+    ],
+    "SR": 15.0,
+    "MIN LVL FD": 15,
+    "variant": "true"
+  },
+  "Arceus (Bug)": {
+    "index": 493,
+    "Type": [
+      "Bug"
+    ],
+    "SR": 15.0,
+    "MIN LVL FD": 20,
+    "variant": "true"
+  },
+  "Arceus (Dark)": {
+    "index": 493,
+    "Type": [
+      "Dark"
+    ],
+    "SR": 15.0,
+    "MIN LVL FD": 20,
+    "variant": "true"
+  },
+  "Arceus (Dragon)": {
+    "index": 493,
+    "Type": [
+      "Dragon"
+    ],
+    "SR": 15.0,
+    "MIN LVL FD": 20,
+    "variant": "true"
+  },
+  "Arceus (Electric)": {
+    "index": 493,
+    "Type": [
+      "Electric"
+    ],
+    "SR": 15.0,
+    "MIN LVL FD": 20,
+    "variant": "true"
+  },
+  "Arceus (Fairy)": {
+    "index": 493,
+    "Type": [
+      "Fairy"
+    ],
+    "SR": 15.0,
+    "MIN LVL FD": 20,
+    "variant": "true"
+  },
+  "Arceus (Fighting)": {
+    "index": 493,
+    "Type": [
+      "Fighting"
+    ],
+    "SR": 15.0,
+    "MIN LVL FD": 20,
+    "variant": "true"
+  },
+  "Arceus (Fire)": {
+    "index": 493,
+    "Type": [
+      "Fire"
+    ],
+    "SR": 15.0,
+    "MIN LVL FD": 20,
+    "variant": "true"
+  },
+  "Arceus (Flying)": {
+    "index": 493,
+    "Type": [
+      "Flying"
+    ],
+    "SR": 15.0,
+    "MIN LVL FD": 20,
+    "variant": "true"
+  },
+  "Arceus (Ghost)": {
+    "index": 493,
+    "Type": [
+      "Ghost"
+    ],
+    "SR": 15.0,
+    "MIN LVL FD": 20,
+    "variant": "true"
+  },
+  "Arceus (Grass)": {
+    "index": 493,
+    "Type": [
+      "Grass"
+    ],
+    "SR": 15.0,
+    "MIN LVL FD": 20,
+    "variant": "true"
+  },
+  "Arceus (Ground)": {
+    "index": 493,
+    "Type": [
+      "Ground"
+    ],
+    "SR": 15.0,
+    "MIN LVL FD": 20,
+    "variant": "true"
+  },
+  "Arceus (Ice)": {
+    "index": 493,
+    "Type": [
+      "Ice"
+    ],
+    "SR": 15.0,
+    "MIN LVL FD": 20,
+    "variant": "true"
+  },
+  "Arceus (Normal)": {
     "index": 493,
     "Type": [
       "Normal"
     ],
     "SR": 15.0,
     "MIN LVL FD": 20
+  },
+  "Arceus (Poison)": {
+    "index": 493,
+    "Type": [
+      "Poison"
+    ],
+    "SR": 15.0,
+    "MIN LVL FD": 20,
+    "variant": "true"
+  },
+  "Arceus (Psychic)": {
+    "index": 493,
+    "Type": [
+      "Psychic"
+    ],
+    "SR": 15.0,
+    "MIN LVL FD": 20,
+    "variant": "true"
+  },
+  "Arceus (Rock)": {
+    "index": 493,
+    "Type": [
+      "Rock"
+    ],
+    "SR": 15.0,
+    "MIN LVL FD": 20,
+    "variant": "true"
+  },
+  "Arceus (Steel)": {
+    "index": 493,
+    "Type": [
+      "Steel"
+    ],
+    "SR": 15.0,
+    "MIN LVL FD": 20,
+    "variant": "true"
+  },
+  "Arceus (Water)": {
+    "index": 493,
+    "Type": [
+      "Water"
+    ],
+    "SR": 15.0,
+    "MIN LVL FD": 20,
+    "variant": "true"
   },
   "Victini": {
     "index": 494,
@@ -5464,6 +5911,16 @@
     "SR": 14.0,
     "MIN LVL FD": 15
   },
+  "Black Kyurem": {
+    "index": 646,
+    "Type": [
+      "Dragon",
+      "Ice"
+    ],
+    "SR": 15.0,
+    "MIN LVL FD": 20,
+    "variant": "true"
+  },
   "Kyurem": {
     "index": 646,
     "Type": [
@@ -5472,6 +5929,16 @@
     ],
     "SR": 15.0,
     "MIN LVL FD": 20
+  },
+  "White Kyurem": {
+    "index": 646,
+    "Type": [
+      "Dragon",
+      "Ice"
+    ],
+    "SR": 15.0,
+    "MIN LVL FD": 20,
+    "variant": "true"
   },
   "Keldeo": {
     "index": 647,
@@ -5482,7 +5949,7 @@
     "SR": 14.0,
     "MIN LVL FD": 15
   },
-  "Meloetta": {
+  "Meloetta - Aria": {
     "index": 648,
     "Type": [
       "Normal",
@@ -5490,6 +5957,16 @@
     ],
     "SR": 15.0,
     "MIN LVL FD": 15
+  },
+  "Meloetta - Pirouette": {
+    "index": 648,
+    "Type": [
+      "Normal",
+      "Fighting"
+    ],
+    "SR": 15.0,
+    "MIN LVL FD": 15,
+    "variant": "true"
   },
   "Genesect": {
     "index": 649,
@@ -6020,7 +6497,27 @@
     "SR": 11.0,
     "MIN LVL FD": 8
   },
-  "Pumpkaboo": {
+  "Pumpkaboo - Average": {
+    "index": 710,
+    "Type": [
+      "Ghost",
+      "Grass"
+    ],
+    "SR": 2.0,
+    "MIN LVL FD": 1,
+    "variant": "true"
+  },
+  "Pumpkaboo - Large": {
+    "index": 710,
+    "Type": [
+      "Ghost",
+      "Grass"
+    ],
+    "SR": 2.0,
+    "MIN LVL FD": 1,
+    "variant": "true"
+  },
+  "Pumpkaboo - Small": {
     "index": 710,
     "Type": [
       "Ghost",
@@ -6029,7 +6526,37 @@
     "SR": 2.0,
     "MIN LVL FD": 1
   },
-  "Gourgeist": {
+  "Pumpkaboo - Supersize": {
+    "index": 710,
+    "Type": [
+      "Ghost",
+      "Grass"
+    ],
+    "SR": 2.0,
+    "MIN LVL FD": 1,
+    "variant": "true"
+  },
+  "Gourgeist - Average": {
+    "index": 711,
+    "Type": [
+      "Ghost",
+      "Grass"
+    ],
+    "SR": 12.0,
+    "MIN LVL FD": 8,
+    "variant": "true"
+  },
+  "Gourgeist - Large": {
+    "index": 711,
+    "Type": [
+      "Ghost",
+      "Grass"
+    ],
+    "SR": 12.0,
+    "MIN LVL FD": 8,
+    "variant": "true"
+  },
+  "Gourgeist - Small": {
     "index": 711,
     "Type": [
       "Ghost",
@@ -6037,6 +6564,16 @@
     ],
     "SR": 12.0,
     "MIN LVL FD": 8
+  },
+  "Gourgeist- Supersize": {
+    "index": 711,
+    "Type": [
+      "Ghost",
+      "Grass"
+    ],
+    "SR": 12.0,
+    "MIN LVL FD": 8,
+    "variant": "true"
   },
   "Bergmite": {
     "index": 712,
@@ -6089,7 +6626,7 @@
     "SR": 15.0,
     "MIN LVL FD": 20
   },
-  "Zygarde": {
+  "Zygarde 10% Forme": {
     "index": 718,
     "Type": [
       "Dragon",
@@ -6097,6 +6634,26 @@
     ],
     "SR": 15.0,
     "MIN LVL FD": 20
+  },
+  "Zygarde 50% Forme": {
+    "index": 718,
+    "Type": [
+      "Dragon",
+      "Ground"
+    ],
+    "SR": 15.0,
+    "MIN LVL FD": 20,
+    "variant": "true"
+  },
+  "Zygarde Complete Forme": {
+    "index": 718,
+    "Type": [
+      "Dragon",
+      "Ground"
+    ],
+    "SR": 15.0,
+    "MIN LVL FD": 20,
+    "variant": "true"
   },
   "Diancie": {
     "index": 719,
@@ -6107,7 +6664,7 @@
     "SR": 15.0,
     "MIN LVL FD": 20
   },
-  "Hoopa": {
+  "Hoopa Confined": {
     "index": 720,
     "Type": [
       "Psychic",
@@ -6115,6 +6672,16 @@
     ],
     "SR": 15.0,
     "MIN LVL FD": 20
+  },
+  "Hoopa Unbound": {
+    "index": 720,
+    "Type": [
+      "Psychic",
+      "Dark"
+    ],
+    "SR": 15.0,
+    "MIN LVL FD": 20,
+    "variant": "true"
   },
   "Volcanion": {
     "index": 721,
@@ -6288,7 +6855,7 @@
     "SR": 8.0,
     "MIN LVL FD": 5
   },
-  "Oricorio": {
+  "Oricorio Baile Style": {
     "index": 741,
     "Type": [
       "Fire",
@@ -6296,6 +6863,36 @@
     ],
     "SR": 7.0,
     "MIN LVL FD": 5
+  },
+  "Oricorio Pa'u Style": {
+    "index": 741,
+    "Type": [
+      "Psychic",
+      "Flying"
+    ],
+    "SR": 7.0,
+    "MIN LVL FD": 5,
+    "variant": "true"
+  },
+  "Oricorio Pom-Pom Style": {
+    "index": 741,
+    "Type": [
+      "Electric",
+      "Flying"
+    ],
+    "SR": 7.0,
+    "MIN LVL FD": 5,
+    "variant": "true"
+  },
+  "Oricorio Sensu Style": {
+    "index": 741,
+    "Type": [
+      "Ghost",
+      "Flying"
+    ],
+    "SR": 7.0,
+    "MIN LVL FD": 5,
+    "variant": "true"
   },
   "Cutiefly": {
     "index": 742,
@@ -6323,7 +6920,16 @@
     "SR": 0.5,
     "MIN LVL FD": 1
   },
-  "Lycanroc": {
+  "Lycanroc Dusk Form": {
+    "index": 745,
+    "Type": [
+      "Rock"
+    ],
+    "SR": 9.0,
+    "MIN LVL FD": 5,
+    "variant": "true"
+  },
+  "Lycanroc Midday Form": {
     "index": 745,
     "Type": [
       "Rock"
@@ -6331,7 +6937,25 @@
     "SR": 9.0,
     "MIN LVL FD": 5
   },
-  "Wishiwashi": {
+  "Lycanroc Midnight Form": {
+    "index": 745,
+    "Type": [
+      "Rock"
+    ],
+    "SR": 9.0,
+    "MIN LVL FD": 5,
+    "variant": "true"
+  },
+  "Wishiwashi School Form": {
+    "index": 746,
+    "Type": [
+      "Water"
+    ],
+    "SR": 5.0,
+    "MIN LVL FD": 4,
+    "variant": "true"
+  },
+  "Wishiwashi Solo Form": {
     "index": 746,
     "Type": [
       "Water"
@@ -6562,7 +7186,115 @@
     "SR": 13.0,
     "MIN LVL FD": 8
   },
-  "Silvally": {
+  "Silvally (Bug)": {
+    "index": 773,
+    "Type": [
+      "Normal"
+    ],
+    "SR": 14.0,
+    "MIN LVL FD": 15,
+    "variant": "true"
+  },
+  "Silvally (Dark)": {
+    "index": 773,
+    "Type": [
+      "Normal"
+    ],
+    "SR": 14.0,
+    "MIN LVL FD": 15,
+    "variant": "true"
+  },
+  "Silvally (Dragon)": {
+    "index": 773,
+    "Type": [
+      "Normal"
+    ],
+    "SR": 14.0,
+    "MIN LVL FD": 15,
+    "variant": "true"
+  },
+  "Silvally (Electric)": {
+    "index": 773,
+    "Type": [
+      "Normal"
+    ],
+    "SR": 14.0,
+    "MIN LVL FD": 15,
+    "variant": "true"
+  },
+  "Silvally (Fairy)": {
+    "index": 773,
+    "Type": [
+      "Normal"
+    ],
+    "SR": 14.0,
+    "MIN LVL FD": 15,
+    "variant": "true"
+  },
+  "Silvally (Fighting)": {
+    "index": 773,
+    "Type": [
+      "Normal"
+    ],
+    "SR": 14.0,
+    "MIN LVL FD": 15,
+    "variant": "true"
+  },
+  "Silvally (Fire)": {
+    "index": 773,
+    "Type": [
+      "Normal"
+    ],
+    "SR": 14.0,
+    "MIN LVL FD": 15,
+    "variant": "true"
+  },
+  "Silvally (Flying)": {
+    "index": 773,
+    "Type": [
+      "Normal"
+    ],
+    "SR": 14.0,
+    "MIN LVL FD": 15,
+    "variant": "true"
+  },
+  "Silvally (Ghost)": {
+    "index": 773,
+    "Type": [
+      "Normal"
+    ],
+    "SR": 14.0,
+    "MIN LVL FD": 15,
+    "variant": "true"
+  },
+  "Silvally (Grass)": {
+    "index": 773,
+    "Type": [
+      "Normal"
+    ],
+    "SR": 14.0,
+    "MIN LVL FD": 15,
+    "variant": "true"
+  },
+  "Silvally (Ground)": {
+    "index": 773,
+    "Type": [
+      "Normal"
+    ],
+    "SR": 14.0,
+    "MIN LVL FD": 15,
+    "variant": "true"
+  },
+  "Silvally (Ice)": {
+    "index": 773,
+    "Type": [
+      "Normal"
+    ],
+    "SR": 14.0,
+    "MIN LVL FD": 15,
+    "variant": "true"
+  },
+  "Silvally (Normal)": {
     "index": 773,
     "Type": [
       "Normal"
@@ -6570,7 +7302,62 @@
     "SR": 14.0,
     "MIN LVL FD": 15
   },
-  "Minior": {
+  "Silvally (Poison)": {
+    "index": 773,
+    "Type": [
+      "Normal"
+    ],
+    "SR": 14.0,
+    "MIN LVL FD": 15,
+    "variant": "true"
+  },
+  "Silvally (Psychic)": {
+    "index": 773,
+    "Type": [
+      "Normal"
+    ],
+    "SR": 14.0,
+    "MIN LVL FD": 15,
+    "variant": "true"
+  },
+  "Silvally (Rock)": {
+    "index": 773,
+    "Type": [
+      "Normal"
+    ],
+    "SR": 14.0,
+    "MIN LVL FD": 15,
+    "variant": "true"
+  },
+  "Silvally (Steel)": {
+    "index": 773,
+    "Type": [
+      "Normal"
+    ],
+    "SR": 14.0,
+    "MIN LVL FD": 15,
+    "variant": "true"
+  },
+  "Silvally (Water)": {
+    "index": 773,
+    "Type": [
+      "Normal"
+    ],
+    "SR": 14.0,
+    "MIN LVL FD": 15,
+    "variant": "true"
+  },
+  "Minior Core Form": {
+    "index": 774,
+    "Type": [
+      "Rock",
+      "Flying"
+    ],
+    "SR": 4.0,
+    "MIN LVL FD": 5,
+    "variant": "true"
+  },
+  "Minior Meteor Form": {
     "index": 774,
     "Type": [
       "Rock",
@@ -6799,6 +7586,26 @@
     "SR": 15.0,
     "MIN LVL FD": 15
   },
+  "Dawn Wings Necrozma": {
+    "index": 800,
+    "Type": [
+      "Psychic",
+      "Ghost"
+    ],
+    "SR": 15.0,
+    "MIN LVL FD": 20,
+    "variant": "true"
+  },
+  "Dusk Mane Necrozma": {
+    "index": 800,
+    "Type": [
+      "Psychic",
+      "Steel"
+    ],
+    "SR": 15.0,
+    "MIN LVL FD": 20,
+    "variant": "true"
+  },
   "Necrozma": {
     "index": 800,
     "Type": [
@@ -6806,6 +7613,16 @@
     ],
     "SR": 15.0,
     "MIN LVL FD": 20
+  },
+  "Ultra Necrozma": {
+    "index": 800,
+    "Type": [
+      "Psychic",
+      "Dragon"
+    ],
+    "SR": 15.0,
+    "MIN LVL FD": 20,
+    "variant": "true"
   },
   "Magearna": {
     "index": 801,
