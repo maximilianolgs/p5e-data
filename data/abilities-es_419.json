@@ -522,7 +522,7 @@
     "Description": "Una vez por descanso largo, este Pokémon puede ignorar una condición de estado negativo que resulte de un movimiento enemigo."
   },
   "Shields Down": {
-    "Description": "Este Pokémon es inmune a los efectos de estado No Volátiles mientras está en Forma de Meteorito. Cuando este Pokémon cae por debajo del 50% de sus PG máximos, su caparazón exterior se rompe y cambia a Forma Núcleo. En Forma Núcleo, añade 6 puntos a su DEX, pero reduce su CA en 4. El Pokémon debe completar un descanso corto para restaurarse a la Forma de Meteorito."
+    "Description": "Este Pokémon es inmune a los efectos de estado No Volátiles mientras está en Forma de Meteorito. Cuando este Pokémon cae por debajo del 50% de sus PG máximos, su caparazón exterior se rompe y cambia a Forma Núcleo. En Forma Núcleo, añade 6 puntos a su DES, pero reduce su CA en 4. El Pokémon debe completar un descanso corto para restaurarse a la Forma de Meteorito."
   },
   "Simple": {
     "Description": "Una vez por descanso corto, puedes duplicar el modificador de Movimiento de este Pokémon para un solo ataque o tirada de daño."
@@ -570,7 +570,7 @@
     "Description": "Cuando este Pokémon es dañado por un movimiento, aumenta su CA en 2 hasta el inicio de su próximo turno. Esta habilidad no se acumula y permanecerá en efecto si el Pokémon es atacado con éxito varios turnos seguidos."
   },
   "Stance Change": {
-    "Description": "Aegislash tiene dos formas. Cuando Aegislash usa Escudo Real, cambia a \"Forma Escudo\", intercambiando sus estadísticas de CA y DEX. Cuando usa un movimiento dañino, Aegislash vuelve inmediatamente a \"Forma Espada\", devolviendo sus estadísticas a la normalidad."
+    "Description": "Aegislash tiene dos formas. Cuando Aegislash usa Escudo Real, cambia a \"Forma Escudo\", intercambiando sus estadísticas de CA y DES. Cuando usa un movimiento dañino, Aegislash vuelve inmediatamente a \"Forma Espada\", devolviendo sus estadísticas a la normalidad."
   },
   "Static": {
     "Description": "Cuando este Pokémon es golpeado por un ataque cuerpo a cuerpo, tira un d4. Con un resultado de 4, el atacante recibe una cantidad de daño eléctrico igual a la Bonificación de Proficiencia de este Pokémon."
