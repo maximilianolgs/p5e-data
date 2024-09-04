@@ -51,5 +51,30 @@
   "saving_throws": [
     "Constitution"
   ],
-  "size": "Tiny"
+  "size": "Tiny",
+  "variant_data": {
+    "create_mode": "choose",
+    "default": "Plant Cloak",
+    "permanent": false,
+    "variants": {
+      "Plant Cloak": {
+        "display": "Burmy (Plant Cloak)",
+        "original_species": "Burmy Plant Cloak"
+      },
+      "Sand Cloak": {
+        "diff": {
+          "Evolve": "Wormadam Sand Cloak"
+        },
+        "display": "Burmy (Sand Cloak)",
+        "original_species": "Burmy Sand Cloak"
+      },
+      "Trash Cloak": {
+        "diff": {
+          "Evolve": "Wormadam Trash Cloak"
+        },
+        "display": "Burmy (Trash Cloak)",
+        "original_species": "Burmy Trash Cloak"
+      }
+    }
+  }
 }
