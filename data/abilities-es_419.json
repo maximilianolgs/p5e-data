@@ -570,7 +570,7 @@
     "Description": "Cuando este Pokémon es dañado por un movimiento, aumenta su CA en 2 hasta el inicio de su próximo turno. Esta habilidad no se acumula y permanecerá en efecto si el Pokémon es atacado con éxito varios turnos seguidos."
   },
   "Stance Change": {
-    "Description": "Aegislash tiene dos formas. Cuando Aegislash usa Escudo Real, cambia a \"Forma Escudo\", intercambiando sus estadísticas de CA y DES. Cuando usa un movimiento dañino, Aegislash vuelve inmediatamente a \"Forma Espada\", devolviendo sus estadísticas a la normalidad."
+    "Description": "Aegislash tiene dos formas. Cuando Aegislash usa Escudo Real, cambia a \"Forma Escudo\", intercambiando sus estadísticas de CA y DES. Cuando usa un movimiento dañino, Aegislash vuelve inmediatamente a \"Forma Filo\", devolviendo sus estadísticas a la normalidad."
   },
   "Static": {
     "Description": "Cuando este Pokémon es golpeado por un ataque cuerpo a cuerpo, tira un d4. Con un resultado de 4, el atacante recibe una cantidad de daño eléctrico igual a la Bonificación de Proficiencia de este Pokémon."

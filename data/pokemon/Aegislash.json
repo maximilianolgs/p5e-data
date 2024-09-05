@@ -1,5 +1,5 @@
 {
-  "AC": 15,
+  "AC": 20,
   "Abilities": [
     "Stance Change"
   ],
@@ -72,7 +72,7 @@
   "attributes": {
     "CHA": 10,
     "CON": 16,
-    "DEX": 20,
+    "DEX": 15,
     "INT": 8,
     "STR": 16,
     "WIS": 14
@@ -82,5 +82,26 @@
     "Wisdom",
     "Constitution"
   ],
-  "size": "Medium"
+  "size": "Medium",
+  "variant_data": {
+    "create_mode": "default",
+    "default": "Shield Forme",
+    "permanent": false,
+    "variants": {
+      "Blade Forme": {
+        "diff": {
+          "AC": 15,
+          "attributes": {
+            "DEX": 20
+          }
+        },
+        "display": "Aegislash Blade Forme",
+        "original_species": "Aegislash Blade"
+      },
+      "Shield Forme": {
+        "display": "Aegislash Shield Forme",
+        "original_species": "Aegislash"
+      }
+    }
+  }
 }
