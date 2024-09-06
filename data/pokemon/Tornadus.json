@@ -1,11 +1,10 @@
 {
   "AC": 16,
   "Abilities": [
-    "Prankster"
+    "Regenerator"
   ],
   "Fsp": 50,
   "HP": 232,
-  "Hidden Ability": "Defiant",
   "Hit Dice": 12,
   "MIN LVL FD": 15,
   "Moves": {
@@ -100,5 +99,26 @@
     "Strength",
     "Wisdom"
   ],
-  "size": "Medium"
+  "size": "Medium",
+  "variant_data": {
+    "create_mode": "default",
+    "default": "Incarnate Forme",
+    "permanent": false,
+    "variants": {
+      "Incarnate Forme": {
+        "diff": {
+          "Abilities": [
+            "Prankster"
+          ],
+          "Hidden Ability": "Defiant"
+        },
+        "display": "Tornadus Incarnate Forme",
+        "original_species": "Tornadus"
+      },
+      "Therian Forme": {
+        "display": "Tornadus Therian Forme",
+        "original_species": "Tornadus Therian"
+      }
+    }
+  }
 }
