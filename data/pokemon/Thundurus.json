@@ -1,11 +1,10 @@
 {
   "AC": 16,
   "Abilities": [
-    "Prankster"
+    "Volt Absorb"
   ],
   "Fsp": 50,
   "HP": 232,
-  "Hidden Ability": "Defiant",
   "Hit Dice": 12,
   "MIN LVL FD": 15,
   "Moves": {
@@ -107,5 +106,26 @@
     "Strength",
     "Wisdom"
   ],
-  "size": "Medium"
+  "size": "Medium",
+  "variant_data": {
+    "create_mode": "default",
+    "default": "Incarnate Forme",
+    "permanent": false,
+    "variants": {
+      "Incarnate Forme": {
+        "diff": {
+          "Abilities": [
+            "Prankster"
+          ],
+          "Hidden Ability": "Defiant"
+        },
+        "display": "Thundurus Incarnate Forme",
+        "original_species": "Thundurus"
+      },
+      "Therian Forme": {
+        "display": "Thundurus Therian Forme",
+        "original_species": "Thundurus Therian"
+      }
+    }
+  }
 }
