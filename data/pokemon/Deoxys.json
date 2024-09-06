@@ -106,5 +106,103 @@
     "Dexterity",
     "Constitution"
   ],
-  "size": "Medium"
+  "size": "Medium",
+  "variant_data": {
+    "create_mode": "choose",
+    "default": "Normal Forme",
+    "permanent": false,
+    "variants": {
+      "Attack Forme": {
+        "diff": {
+          "Moves": {
+            "Starting Moves": [
+              "Leer",
+              "Wrap",
+              "Night Shade",
+              "Teleport",
+              "Taunt",
+              "Pursuit",
+              "Psychic",
+              "Superpower",
+              "Psycho Shift",
+              "Zen Headbutt"
+            ],
+            "Level": {
+              "18": [
+                "Cosmic Power",
+                "Zap Cannon",
+                "Psycho Boost",
+                "Hyper Beam"
+              ]
+            }
+          }
+        },
+        "display": "Deoxys Attack Forme",
+        "original_species": "Deoxys Attack"
+      },
+      "Defense Forme": {
+        "diff": {
+          "AC": 18,
+          "Moves": {
+            "Starting Moves": [
+              "Leer",
+              "Wrap",
+              "Night Shade",
+              "Teleport",
+              "Knock Off",
+              "Spikes",
+              "Psychic",
+              "Snatch",
+              "Psycho Shift",
+              "Zen Headbutt"
+            ],
+            "Level": {
+              "18": [
+                "Iron Defense",
+                "Amnesia",
+                "Recover",
+                "Psycho Boost",
+                "Counter",
+                "Mirror Coat"
+              ]
+            }
+          }
+        },
+        "display": "Deoxys Defense Forme",
+        "original_species": "Deoxys Defense"
+      },
+      "Speed Forme": {
+        "diff": {
+          "Moves": {
+            "Starting Moves": [
+              "Leer",
+              "Wrap",
+              "Night Shade",
+              "Double Team",
+              "Knock Off",
+              "Pursuit",
+              "Psychic",
+              "Swift",
+              "Psycho Shift",
+              "Zen Headbutt"
+            ],
+            "Level": {
+              "18": [
+                "Agility",
+                "Recover",
+                "Psycho Boost",
+                "Extreme Speed"
+              ]
+            }
+          }
+        },
+        "display": "Deoxys Speed Forme",
+        "original_species": "Deoxys Speed"
+      },
+      "Normal Forme": {
+        "display": "Deoxys",
+        "original_species": "Deoxys"
+      }
+    }
+  }
 }
