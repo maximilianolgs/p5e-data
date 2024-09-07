@@ -95,5 +95,26 @@
   "saving_throws": [
     "Dexterity"
   ],
-  "size": "Small"
+  "size": "Small",
+  "variant_data": {
+    "create_mode": "choose",
+    "default": "Red-Striped",
+    "permanent": true,
+    "variants": {
+      "Blue-Striped": {
+        "diff": {
+          "Abilities": [
+            "Rock Head",
+            "Adaptability"
+          ]
+        },
+        "display": "Basculin (Blue-Striped)",
+        "original_species": "Basculin Blue"
+      },
+      "Red-Striped": {
+        "display": "Basculin (Red-Striped)",
+        "original_species": "Basculin Red"
+      }
+    }
+  }
 }
