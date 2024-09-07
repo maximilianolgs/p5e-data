@@ -1,11 +1,10 @@
 {
   "AC": 16,
   "Abilities": [
-    "Sand Force"
+    "Intimidate"
   ],
   "Fsp": 50,
   "HP": 246,
-  "Hidden Ability": "Sheer Force",
   "Hit Dice": 12,
   "MIN LVL FD": 15,
   "Moves": {
@@ -102,5 +101,26 @@
     "Strength",
     "Wisdom"
   ],
-  "size": "Medium"
+  "size": "Medium",
+  "variant_data": {
+    "create_mode": "default",
+    "default": "Incarnate Forme",
+    "permanent": false,
+    "variants": {
+      "Incarnate Forme": {
+        "diff": {
+          "Abilities": [
+            "Sand Force"
+          ],
+          "Hidden Ability": "Sheer Force"
+        },
+        "display": "Landorus Incarnate Forme",
+        "original_species": "Landorus"
+      },
+      "Therian Forme": {
+        "display": "Landorus Therian Forme",
+        "original_species": "Landorus Therian"
+      }
+    }
+  }
 }
