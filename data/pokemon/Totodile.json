@@ -73,9 +73,12 @@
     ],
     "egg": [
       "Ancient Power",
+      "Aqua Jet",
+      "Block",
       "Crunch",
       "Dragon Claw",
       "Dragon Dance",
+      "Fake Tears",
       "Flatter",
       "Hydro Pump",
       "Ice Punch",
@@ -83,6 +86,7 @@
       "Mud Sport",
       "Rock Slide",
       "Thrash",
+      "Water Pulse",
       "Water Sport"
     ]
   },
